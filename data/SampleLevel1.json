@@ -1,16 +1,16 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "name": "Firework",
+    "author": "TrickGMD",
+    "creators": ["Buragoz","Konsi","Crouley","00Zero","Desumari","Realvet","Itami","Orte","Vernam","Hantein","Lillium","Lekvid"],
+    "verifier": "TrickGMD",
+    "verification": "https://youtu.be/QBe5x2o9v2w?si=OKcCznV5L3FF6tU_",
+    "percentToQualify": 100,
+    "password": "234000",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Gokill",
+            "link": "https://youtu.be/keVlE1KsJDE?si=bBb3GDKhkbp1GRuv",
             "percent": 100,
             "hz": 360
         }
