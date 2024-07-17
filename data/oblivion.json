@@ -1,0 +1,42 @@
+{
+    "id": 71025973,
+    "name": "Oblivion",
+    "author": "dice88",
+    "creators": ["benji8090","eth","goob","silver"],
+    "verifier": "dice88",
+    "verification": "https://youtu.be/ZcmDAm50BB0",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "KubeczekTV",
+            "link": "https://youtu.be/C6zdlU4SwjA?si=DWch5iyCDjSRiYnn",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+        "user": "Gokill",
+        "link": "https://youtu.be/eyF-iFZFcYs?si=2aR9fYEN0gSBU4Wy",
+        "percent": 100,
+        "hz": 700
+      },
+      {
+        "user": "NeiK0n",
+        "link": "https://youtu.be/pyt55rpGLJ4?si=rk0WV8v1rLH-SFMl",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Lanx",
+        "link": "https://youtu.be/xKIRIrryaBo?si=VmvaKlXlzVNo626S",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "bigfat",
+        "link": "https://youtu.be/f7qe6sLkzo0?si=oh1P8hMIk73OekhX",
+        "percent": 100,
+        "hz": 480
+        }
+    ]
+}
