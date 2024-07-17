@@ -1,0 +1,24 @@
+{
+    "id": 59075347,
+    "name": "Tartarus",
+    "author": "ItzDolphy",
+    "creators": ["Riot","Hinds","Aurorus","Vermillion","Cyclic","Rek3dge","Komp","Aquatias","Endlevel","Salaxium","AZuLer4"],
+    "verifier": "Dolphy",
+    "verification": "https://youtu.be/9YYQBbrsV5Y",
+    "percentToQualify": 100,
+    "password": "061742",
+    "records": [
+        {
+            "user": "Gokill",
+            "link": "https://youtu.be/hu3CNXwTA0I?si=mQJpeUrbfTQPGGe9",
+            "percent": 100,
+          "hz": 360
+        },
+      {
+        "user": "Stryg",
+        "link": "https://youtu.be/qbO0bEzEWwE?si=V7JdipTCxxLYIYol",
+        "percent": 100,
+        "hz": 240
+        }
+    ]
+}
