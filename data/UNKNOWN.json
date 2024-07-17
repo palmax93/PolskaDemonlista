@@ -1,0 +1,36 @@
+{
+    "id": 88203501,
+    "name": "UNKNOWN",
+    "author": "NineDice",
+    "creators": ["Gusearth","kywy","DrCuber","GhostVandalf","GD Iris","Relayne","Muriday"],
+    "verifier": "Diamond",
+    "verification": "https://youtu.be/a1sQxQqU6EM",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Doubley",
+            "link": "https://youtu.be/dURHDn4KPso?si=6KT8TnJEL9uCPebs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Mzack",
+            "link": "https://youtu.be/tAPLszbN6sU?si=9WTb83Am4E_DpCbz",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Komet01",
+            "link": "https://youtu.be/hrFjS7poen4?si=puFCevSqe0-E4iip",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mithrand",
+            "link": "https://youtu.be/Rr_TBa4wL6A?si=PuOr60cTgWxkXzr5",
+            "percent": 100,
+            "hz": 330
+        }
+    ]
+}
