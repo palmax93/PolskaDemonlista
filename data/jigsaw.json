@@ -1,0 +1,24 @@
+{
+    "id": 95031870,
+    "name": "Jigsaw",
+    "author": "NEKONGAMES",
+    "creators": ["HelpegasuS","Texic","ViralDl","Yoonsr","BlasterRobotz","Kakemancool","vit12","shtaba","Viper","Arctarus","Titoalper","Asuith","cynvic","NekonGames","JuzGiew","Liu","Bli","Motheye","kivvvi","Mordroc9","PegasusZ","Chaldy","Adrift","LenghtyRat","Cynixx","Magpipe","Kerrez","Dyubin","CDPre","Galofuf"],
+    "verifier": "Gokill",
+    "verification": "https://youtu.be/FPfSqlI0T30",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Gokill",
+            "link": "https://youtu.be/FPfSqlI0T30",
+            "percent": 100,
+          "hz": 360
+        },
+      {
+        "user": "Hasik",
+        "link": "https://youtu.be/RS9cdlKPOg4?si=BC0HGx8lI4Au5BlF",
+        "percent": 100,
+        "hz": 330
+        }
+    ]
+}
