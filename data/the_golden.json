@@ -1,1 +1,18 @@
-
+{
+    "id": 60978746,
+    "name": "The Golden",
+    "author": "BoBoBoBoBoBoBo",
+    "creators": ["rWoomy","BoBoBoBoBoBoBo","Gooseam","Geemi","EyeOfTheStorm","Eridani","BySelling","El3ctr0"],
+    "verifier": "nSwish",
+    "verification": "https://youtu.be/GzH16AMjI1g?si=_dhuBRrGDvNDgjhx",
+    "percentToQualify": 100,
+    "password": "886988",
+    "records": [
+        {
+            "user": "Gokill",
+            "link": "https://youtu.be/0CCQJE0MnaY?si=7PBDvLIUct4flykY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
