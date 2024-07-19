@@ -4,13 +4,13 @@
     "author": "PLoLek",
     "creators": ["PLoLek","Yozyo","Avati","Shtaba","Plolex","Pyziu","Asuith","Juzgiew","Janucha","Jneh","Nekon"],
     "verifier": "Gokill",
-    "verification": "https://www.youtube.com/watch?v=M--2oQKrV68&embeds_referring_euri=https%3A%2F%2Fudl.pages.dev%2F",
+    "verification": "https://www.youtube.com/watch?v=M--2oQKrV68",
     "percentToQualify": 100,
     "password": "",
     "records": [
         {
             "user": "Gokill",
-            "link": "https://www.youtube.com/watch?v=M--2oQKrV68&embeds_referring_euri=https%3A%2F%2Fudl.pages.dev%2F",
+            "link": "https://www.youtube.com/watch?v=M--2oQKrV68",
             "percent": 100,
             "hz": 360
         }
