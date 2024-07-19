@@ -1,0 +1,42 @@
+{
+    "id": 68668045,
+    "name": "Congregation",
+    "author": "Presta",
+    "creators": ["Presta"],
+    "verifier": "Floofle",
+    "verification": "https://www.youtube.com/watch?v=KVlcdvGYcj0",
+    "percentToQualify": 51,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Mando",
+            "link": "https://www.youtube.com/watch?v=rF_QbZi_IpQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "NeiK0n",
+            "link": "https://www.youtube.com/watch?v=p41sVQdIQ1s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lanx",
+            "link": "https://www.youtube.com/watch?v=e5QAVYd4JXw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Hcilx",
+            "link": "https://www.youtube.com/watch?v=4ahajKVaLuk",
+            "percent": 61,
+            "hz": 360
+        },
+        {
+            "user": "Ptiru",
+            "link": "https://www.youtube.com/watch?v=gjB6OBeaMYY",
+            "percent": 64,
+            "hz": 288
+        }
+    ]
+}
