@@ -11,7 +11,8 @@
         {
             "user": "kakol",
             "link": "https://youtu.be/R2PKZN1-p5I?si=T1jv3CATGdf3aUnh",
-            "percent": 100
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
