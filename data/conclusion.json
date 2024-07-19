@@ -1,0 +1,24 @@
+{
+    "id": 58161496,
+    "name": "ConClusion",
+    "author": "DreamZoneGD",
+    "creators": ["DreamZoneGD"],
+    "verifier": "BrowarKedawar",
+    "verification": "https://www.youtube.com/watch?v=wpuPFFqnJFY",
+    "percentToQualify": 100,
+    "password": "",
+    "records": [
+        {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=wpuPFFqnJFY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Hubertos",
+            "link": "https://www.youtube.com/watch?v=d6_kBWvA17Y",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
