@@ -1,0 +1,35 @@
+{
+    "id": 45866767,
+    "name": "Crimson Planet",
+    "author": "TrueOmega",
+    "creators": ["Metalface221","TrueOmega","TrusTa","Terron","Dz3ser","YakobNugget","MrPPs","AimTheSame","nikroplays","Endlevel","Zimnior12","surreki"],
+    "verifier": "Wooshi",
+    "verification": "https://www.youtube.com/watch?v=euMInLjyG6k",
+    "percentToQualify": 100,
+    "password": "123456",
+    "records": [
+        {
+            "user": "Cewew",
+            "link": "https://www.youtube.com/watch?v=S-J7nlKT1RQ",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Byleom",
+            "link": "https://www.youtube.com/watch?v=CnDUBffrfao",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Unityhost",
+            "link": "https://www.youtube.com/watch?v=CnDUBffrfao",
+            "percent": 100,
+            "hz": 240/300
+        },
+        {   
+            "user": "UKMD1997",
+            "link": "https://www.youtube.com/watch?v=LadjqmDndhQ",
+            "percent": 100,
+            "hz": 360/360
+    ]
+}
