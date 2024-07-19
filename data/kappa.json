@@ -1,0 +1,36 @@
+{
+    "id": 59800588,
+    "name": "Kappa",
+    "author": "Armadeus",
+    "creators": ["Davphla","nwolc","Ferox","Extravagon","Isane","Walroose","Spectex","crumche","Levin","Yoonsr","tolstyh","Lime0037","EyeOfTheStorm","El3ctr0","XLSpiral","Vyu","Armadeus","maxmur","ilp"],
+    "verifier": "nSwish",
+    "verification": "https://youtu.be/sMFqknHyMuI?si=W_ljBbpFmfUSLNgF",
+    "percentToQualify": 50,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "kvvv",
+            "link": "https://youtu.be/9gzPQn785hY?si=YjIuqApWuoarykTo",
+            "percent": 100,
+            "hz": 300
+        },
+      {
+        "user": "bugs0987",
+        "link": "https://youtu.be/wUcaMt4fzec?si=9C_kNFsofWDK1F9F",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "bigfat",
+        "link": "https://youtu.be/MqExJRDj1VQ?si=48YOn2ToCYABH1QM",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Hubertos",
+        "link": "https://youtu.be/_fgD2W45P-4?si=D0QeZIxcRLiu9fUK",
+        "percent": 100,
+        "hz": 288
+        }
+    ]
+}
