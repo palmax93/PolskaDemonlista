@@ -1,0 +1,66 @@
+{
+    "id": 79997992,
+    "name": "Shardscapes",
+    "author": "ItzKiba",
+    "creators": ["ItzKiba"],
+    "verifier": "kiseta",
+    "verification": "https://youtu.be/prAX7gnKrkU",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Cinasek",
+            "link": "https://youtu.be/B-zJ6FGa6Ck?si=HEjQFaBMZGoU8X4I",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+        "user": "Dramel [GD]",
+        "link": "https://youtu.be/hO2tjSr_X-s?si=PYdg3L5Xh2dlHUfV",
+        "percent": 100,
+        "hz": 144
+      },
+      {
+        "user": "Hcilx",
+        "link": "https://youtu.be/vz6a8NWfy-o?si=xH9lhusK-ydp0eio",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "Majdzerix",
+        "link": "https://youtu.be/gJMTdLsUW9E?si=K16_BRbYi3M2oLgb",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "Kyuumiko",
+        "link": "https://youtu.be/eGirkwuDXNg?si=S84T-PzMuXb6hSb0",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "igieyron",
+        "link": "https://youtu.be/GPyLwUrAL9w?si=vY_T3xENKsr4XGDw",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "MateleQ",
+        "link": "https://youtu.be/Qd1l8vZLRQI?si=SWnHDXgaLoakqk-B",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "UnityHost",
+        "link": "https://youtu.be/7OpWk0m3gZA?si=4qd8OD2vWav1H-dB",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Mando",
+        "link": "https://youtu.be/x4F-9GpPRjs?si=dtKVyLNwN2-CD_wJ",
+        "percent": 67,
+        "hz": 240
+        }
+    ]
+}
