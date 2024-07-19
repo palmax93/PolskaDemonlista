@@ -1,0 +1,19 @@
+
+{
+    "id": 72315402,
+    "name": "arcturus",
+    "author": "maxfs",
+    "creators": ["maxfs"],
+    "verifier": "ultracauaHD",
+    "verification": "https://youtu.be/a_Bqa8l9Xtc",
+    "percentToQualify": 100,
+    "password": "666999",
+    "records": [
+        {
+            "user": "Byleom",
+            "link": "https://youtu.be/HdhwUz7QF7U?si=9tsY6lQSCXE7JgUw",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
