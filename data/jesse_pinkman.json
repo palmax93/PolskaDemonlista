@@ -1,0 +1,36 @@
+{
+    "id": 79918576,
+    "name": "Jesse Pinkman",
+    "author": "Renn241",
+    "creators": ["Renn241"],
+    "verifier": "Comlayze",
+    "verification": "https://www.youtube.com/watch?v=fYcBtp4X8GA",
+    "percentToQualify": "59",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "UKMD1997",
+            "link": "https://www.youtube.com/watch?v=1zeJ-0ShOso",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "bigfat",
+            "link": "https://www.youtube.com/watch?v=S_wcX0nBDxo",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "UnityHost",
+            "link": "https://www.youtube.com/watch?v=AwDBrozJz6o",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ProgamerrrPL",
+            "link": "https://www.youtube.com/watch?v=d53piNDudOQ",
+            "percent": 73,
+            "hz": 144
+        }
+    ]
+}
