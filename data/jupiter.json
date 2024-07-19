@@ -1,0 +1,24 @@
+{
+    "id": 92466083,
+    "name": "Jupiter My Favourite",
+    "author": "Akunakunn",
+    "creators": ["Akunakunn"],
+    "verifier": "Leslie",
+    "verification": "https://youtu.be/nHdEUIPpS2k",
+    "percentToQualify": 55,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "BrowarKedawar",
+            "link": "https://youtu.be/Vd3bpLFS33g?si=LsLZsbnVCAP0wZJH",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+        "user": "Kyuumiko",
+        "link": "https://youtu.be/8LMAIa48VHI?si=tXzxqmZv2SnthE74"
+        "percent": 100,
+        "hz": 240
+        }
+    ]
+}
