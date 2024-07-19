@@ -1,0 +1,30 @@
+{
+    "id": 52310333,
+    "name": "Lucid Nightmares",
+    "author": "CairoX",
+    "creators": ["CairoX","DonutTV"],
+    "verifier": "Wooshi",
+    "verification": "https://youtu.be/G7hBE5qWx6M",
+    "percentToQualify": 50,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "kvvv",
+            "link": "https://youtu.be/d53D4vXJqCI?si=yf7bJbpBneidHRp5",
+            "percent": 100,
+            "hz": 300
+        },
+      {
+        "user": "Supron",
+        "link": "https://youtu.be/kS2JhaOEwD0?si=Eh7d2St71Ingur7G",
+        "percent": 81,
+        "hz": 360
+      },
+      {
+        "user": "ItzMira",
+        "link": "https://youtu.be/DXYLoB3vZ2g?si=z76SBO8xb_bUzZRj",
+        "percent": 72,
+        "hz": 240
+        }
+    ]
+}
