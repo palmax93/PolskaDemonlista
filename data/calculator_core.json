@@ -5,7 +5,7 @@
     "creators": ["Walroose","Isane","Zylenox","Acnologia","Tolstyh","Sedgehog","Cytokinesis","Chuckgamer1","HelpegasuS","CrankyTheHuman","ZeroSR","Voltrix","StarkyTheSalad","YoonsrDynamix","Cry","RealVet","Brittank88","CairoX","Zest","Spectex"],
     "verifier": "swiborg",
     "verification": "https://www.youtube.com/watch?v=YzjsxJtS2pE",
-    "percentToQualify": 100,
+    "percentToQualify": 59,
     "password": "Free To Copy",
     "records": [
         {
@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=6bCF9Aw0Dng",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Mando",
+            "link": "https://youtu.be/4uWbAz7jGGk?si=3EMgmXYpPoXbdiRp",
+            "percent": 63,
+            "hz": 240
         }
     ]
 }
