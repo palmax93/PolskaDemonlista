@@ -1,0 +1,54 @@
+{
+    "id": 42584142,
+    "name": "Bloodlust",
+    "author": "Knobbelboy",
+    "creators": ["Manix648","Knobbelboy","Quasar","Pan","Namtar","nikrodox","Havok","Wabbit","Xaro","Terron","Willy5000","TMNGaming","Minesap","nwolc","Rustam","non4med"],
+    "verifier": "Knobbelboy",
+    "verification": "https://www.youtube.com/watch?v=5SzKetF2btw",
+    "percentToQualify": 56,
+    "password": "121296",
+    "records": [
+        {
+            "user": "Plus0ne",
+            "link": "https://www.youtube.com/watch?v=7hiEZtJ0z1o",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "TheRealLck",
+            "link": "https://www.youtube.com/watch?v=n4tpXYRK77c",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "cultist",
+            "link": "https://www.youtube.com/watch?v=5IN4eJF6qgs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "UnliMiteR",
+            "link": "https://www.youtube.com/watch?v=UTECV8aZAiM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "renzgmd",
+            "link": "https://www.youtube.com/watch?v=7SEy6P-H-PU",
+            "percent": 100,
+            "hz": 360     
+       },
+       {
+            "user": "Makaron202",
+            "link": "https://www.youtube.com/watch?v=W8Mb3gfEKQk",
+            "percent": 98,
+            "hz":
+       },
+       {          
+            "user": "Kapinapi",
+            "link": "hhttps://www.youtube.com/watch?v=tyqzVpNP_p4",
+            "percent": 86,
+            "hz": 144
+        }
+    ]
+}
