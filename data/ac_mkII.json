@@ -1,0 +1,36 @@
+{
+    "id": 91180835,
+    "name": "ATOMIC CANNON Mk II",
+    "author": "LIEB",
+    "creators": ["LIEB","Giron"],
+    "verifier": "Zeronium",
+    "verification": "https://youtu.be/4-lOnZsfhNQ?si=Xxe6dcEIUf25B1xg",
+    "percentToQualify": 49,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "bigfat",
+            "link": "https://youtu.be/ctBmqvgj8l0?si=swqyjYK9p4X6WVZL",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+        "user": "KubeczekTV",
+        "link": "https://youtu.be/Zc5lHndi84w?si=u_0eUWVl6IljjNW8",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "bugs0987",
+        "link": "https://youtu.be/y3dWrlU4HfQ?si=BXuBnhCPgnYr4wMw",
+        "percent": 100,
+        "hz": 480
+      },
+      {
+        "user": "Alian",
+        "link": "https://youtu.be/UpZA235OPt0?si=cdhQAl2sa8PN9YLA",
+        "percent": 51,
+        "hz": 240
+        }
+    ]
+}
