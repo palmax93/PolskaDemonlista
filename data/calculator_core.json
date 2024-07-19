@@ -1,0 +1,24 @@
+{
+    "id": 58355141,
+    "name": "Calculator Core",
+    "author": "Walroose",
+    "creators": ["Walroose","Isane","Zylenox","Acnologia","Tolstyh","Sedgehog","Cytokinesis","Chuckgamer1","HelpegasuS","CrankyTheHuman","ZeroSR","Voltrix","StarkyTheSalad","YoonsrDynamix","Cry","RealVet","Brittank88","CairoX","Zest","Spectex"],
+    "verifier": "swiborg",
+    "verification": "https://www.youtube.com/watch?v=YzjsxJtS2pE",
+    "percentToQualify": 100,
+    "password": "",
+    "records": [
+        {
+            "user": "Ptiru",
+            "link": "https://www.youtube.com/watch?v=oalN8LQo-1g",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "VerdantLands",
+            "link": "https://www.youtube.com/watch?v=6bCF9Aw0Dng",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
