@@ -24,12 +24,12 @@
             "user": "Unityhost",
             "link": "https://www.youtube.com/watch?v=CnDUBffrfao",
             "percent": 100,
-            "hz": 240/300
+            "hz": 240
         },
         {   
             "user": "UKMD1997",
             "link": "https://www.youtube.com/watch?v=LadjqmDndhQ",
             "percent": 100,
-            "hz": 360/360
-    ]
+            "hz": 360
+    
 }
