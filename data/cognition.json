@@ -1,0 +1,78 @@
+{
+    "id": 57600307,
+    "name": "Cognition",
+    "author": "EndLevel",
+    "creators": ["Endlevel","benji8080"],
+    "verifier": "nSwish",
+    "verification": "https://youtu.be/YhVYvrpNOvE?si=xmH_jP6vq7lh-z6b",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Kapinapi",
+            "link": "https://youtu.be/cvuTaLm_1vk?si=Rn0Ti_P4O9VS1qvt",
+            "percent": 100,
+            "hz": 144
+        },
+      {
+        "user": "Cewew",
+        "link": "https://youtu.be/3MIs4eXTcLs?si=_xbP0HbEHKKWtVga",
+        "percent": 100,
+        "hz": 144
+      },
+      {
+        "user": "UnityHost",
+        "link": "https://youtu.be/o9idpWVEGVI?si=PsPL0Dc9hIrYJwnr",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "bugs0987",
+        "link": "https://youtu.be/24SNkaKmTgQ?si=c6YsopeA6pK6RXw9",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "UKMD1997",
+        "link": "https://youtu.be/DKYiKP00tPA?si=3MjSn0zyRhi1Vcue",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "Gokill",
+        "link": "https://youtu.be/wb-FsXdlFtg?si=rtc9P2I0A8y5ttBI",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "Mithrand",
+        "link": "https://youtu.be/SMcK1awyNtM?si=a-JRR8xgx3NoeOYL",
+        "percent": 100,
+        "hz": 165
+      },
+      {
+        "user": "Doubley",
+        "link": "https://youtu.be/u9d6DxwC1b8?si=TFdTPyAeJkcKNitG",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "igor",
+        "link": "https://youtu.be/VtrA-CXst3M?si=RZv7d3mw1TA6vSoP",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "Lanx",
+        "link": "https://youtu.be/kJELoKaQGH4?si=fKJZBiDLYhrKyxuQ",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "Kafpu",
+        "link": "https://youtu.be/fALxuxzD76Y?si=YZyYFEEAJj-28v59",
+        "percent": 94,
+        "hz": 360
+        }
+    ]
+}
