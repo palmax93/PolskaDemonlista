@@ -1,0 +1,36 @@
+{
+    "id": 68654380,
+    "name": "Omega Interface",
+    "author": "Platnuu",
+    "creators": ["Zipixbox","Platnuu"],
+    "verifier": "RG",
+    "verification": "https://www.youtube.com/watch?v=sVngEgj0who",
+    "percentToQualify": 45,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Lanx",
+            "link": "https://www.youtube.com/watch?v=m-m1jdCsJ6s&t=2s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Byleom",
+            "link": "https://www.youtube.com/watch?v=uCHpKL705DM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Dawiderix",
+            "link": "https://www.youtube.com/watch?v=wgmIwlKPW7Y",
+            "percent": 87,
+            "hz": 240
+        },
+        {
+            "user": "nPumpz",
+            "link": "https://www.youtube.com/watch?v=C-9fmQXLAPo",
+            "percent": 47,
+            "hz": 165
+        }
+    ]
+}
