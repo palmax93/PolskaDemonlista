@@ -1,0 +1,54 @@
+{
+    "id": 71912451,
+    "name": "RUST",
+    "author": "neigefeu",
+    "creators": ["neigefeu"],
+    "verifier": "Keir",
+    "verification": "https://youtu.be/mEXGlrNMyR4",
+    "percentToQualify": 58,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "kakol",
+            "link": "https://youtu.be/MUVz2UCXd1s?si=ivDG1M4yI7FZcWaS",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+        "user": "Nikoo",
+        "link": "https://youtu.be/e9O7ESVEyDw?si=f-U2PR7egaueWCsH",
+        "percent": 100,
+        "hz": 288
+      },
+      {
+        "user": "Silkyy",
+        "link": "https://youtu.be/W2YH6kWLGrc?si=4saX9F5xgs8WWYoj",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "bugs0987",
+        "link": "https://youtu.be/GwfqE_5k6Ko?si=F5zSDCdudHNtzpD8",
+        "percent": 100,
+        "hz": 322
+      },
+      {
+        "user": "UnityHost",
+        "link": "https://youtu.be/AcQQg8Vi8s8?si=tIcQ4_UzpqKZBcIv",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Neik0n",
+        "link": "https://youtu.be/E2rCr7Eo-Fs?si=tFO9f0bwy5arD1-f",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "TheRealLCK",
+        "link": "https://youtu.be/JBXnDk3FmUg?si=NPVRe_jfoLEeb1R0",
+        "percent": 77,
+        "hz": 360
+        }
+    ]
+}
