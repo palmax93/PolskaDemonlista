@@ -1,0 +1,30 @@
+{
+    "id": 57828784,
+    "name": "The Rupture",
+    "author": "Ka1ns",
+    "creators": ["Ka1ns"],
+    "verifier": "Dolphy",
+    "verification": "https://youtu.be/SaU454afkKY",
+    "percentToQualify": 50,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "OnlinE_Play",
+            "link": "https://youtu.be/OTCLtYq9wsc?si=0WbxW-H_hf9sex8G",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+        "user": "Mithrand",
+        "link": "https://youtu.be/NSRhav8xNBc?si=KglfL9EmFJ2AXJRw",
+        "percent": 100,
+        "hz": 165
+      },
+      {
+        "user": "Kraken",
+        "link": "https://youtu.be/n8IuIcBSnuc?si=1t09QY1dKPnFrWOn",
+        "percent": 100,
+        "hz": 240
+        }
+    ]
+}
