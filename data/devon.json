@@ -1,0 +1,18 @@
+{
+    "id": 95929957,
+    "name": "Th3Dev0n",
+    "author": "Zeptoz",
+    "creators": ["Zeptoz"],
+    "verifier": "Smokes",
+    "verification": "https://youtu.be/f7s6i0M1n-g",
+    "percentToQualify": 100,
+    "password": "",
+    "records": [
+        {
+            "user": "BrowarKedawar",
+            "link": "https://youtu.be/uqc7VQPk75A",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
