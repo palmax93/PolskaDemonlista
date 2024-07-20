@@ -1,0 +1,24 @@
+{
+    "id": 95089240,
+    "name": "CONNECT",
+    "author": "MCres",
+    "creators": ["MCres"],
+    "verifier": "mac",
+    "verification": "https://youtu.be/oo_PqnEHZvo",
+    "percentToQualify": 59,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "VerdantLands",
+            "link": "https://youtu.be/Y5PRxSm4wtU?si=xXMcFCYQoYXIPmS6",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+        "user": "BrowarKedawar",
+        "link": "https://youtu.be/rv_ridIt5kY?si=DSKxhmmRiS86eRvf",
+        "percent": 100,
+        "hz": 240
+        }
+    ]
+}
