@@ -12,19 +12,19 @@
             "user": "Byleom",
             "link": "https://www.youtube.com/watch?v=UWq9RWgBY2w",
             "percent": 100,
-            "hz" 288:
+            "hz": 288
         },
         {
             "user": "Hubertos",
             "link": "https://www.youtube.com/watch?v=A7KQ6D39iOE",
             "percent": 100,
-            "hz" 288:
+            "hz": 288
         },
         {
             "user": "kvvv",
             "link": "https://www.youtube.com/watch?v=sr8kFg5KfvE",
             "percent": 100,
-            "hz" 360:
+            "hz": 360
         }
     ]
 }
