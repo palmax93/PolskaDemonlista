@@ -1,0 +1,30 @@
+{
+    "id": 51657783,
+    "name": "Sigma",
+    "author": "MindCap",
+    "creators": ["MindCap","JaoDay","DirisWan97","Soam","Temp","HoshiKido","Lemons","RoiMousti","Uneskandovae","ISanEGFW","YakobNugget","CairoX","Jenkins","Surge","Juhou","Mactanow","Chlorines","Walroose","HelpegasuS","Fufafac","iNubble","Lolwut","HJfod","Brittank88","iPizza"],
+    "verifier": "Technical",
+    "verification": "https://www.youtube.com/watch?v=3INdO0esQRw",
+    "percentToQualify": 57,
+    "password": "772002",
+    "records": [
+        {
+            "user": "miki2003pl",
+            "link": "https://www.youtube.com/watch?v=kufracZmTFU",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Hubertos",
+            "link": "https://www.youtube.com/watch?v=9LRMcoinUpk",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=TOtSbBBMGcU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
