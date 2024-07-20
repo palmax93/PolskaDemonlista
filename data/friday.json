@@ -1,0 +1,24 @@
+{
+    "id": 94107500,
+    "name": "FRIDAY",
+    "author": "Metalface221",
+    "creators": ["Metalface221"],
+    "verifier": "Metalface221",
+    "verification": "https://youtu.be/YUoFhrN3aKw?si=jNDnzSBLGXZu6A08",
+    "percentToQualify": 51,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "BrowarKedawar",
+            "link": "https://youtu.be/xtF9XdJbkEU?si=3LyafecC99sK7l2Q",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+        "user": "UnityHost",
+        "link": "https://youtu.be/G_f8un5tJG4?si=Nd1KmAn6IzWAc7QA",
+        "percent": 100,
+        "hz": 240
+        }
+    ]
+}
