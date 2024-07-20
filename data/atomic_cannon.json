@@ -1,0 +1,78 @@
+{
+    "id": 77681476,
+    "name": "ATOMIC CANNON",
+    "author": "Lieb",
+    "creators": ["Lieb"],
+    "verifier": "Zeronium",
+    "verification": "https://www.youtube.com/watch?v=VZS5Yn9Y-OI",
+    "percentToQualify": 58,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Dominez",
+            "link": "https://www.youtube.com/watch?v=uMwhLfzqCmQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "bugs0987",
+            "link": "https://www.youtube.com/watch?v=wGR8IvOW_Zc",
+            "percent": 100,
+            "hz": 321
+        },
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=FnCuyZER-_E",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "kakol",
+            "link": "https://www.youtube.com/watch?v=L5jtDxvKXSw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bigfat",
+            "link": "https://www.youtube.com/watch?v=EwqqoryBESU",
+            "percent": 100,
+            "hz": 360
+        },
+        {   
+            "user": "NeiK0n",
+            "link": "https://www.youtube.com/watch?v=70FnaSqTWJo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ItzMira",
+            "link": "https://www.youtube.com/watch?v=4afiVqdhT8A",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ChiefKeefSosaGD",
+            "link": "https://www.youtube.com/watch?v=R8NT6kgBfAg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "UnityHost",
+            "link": "https://www.youtube.com/watch?v=VrlErQmeAm4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Hasik",
+            "link": "https://www.youtube.com/watch?v=QHWVH1Zuxfs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MateleQ",
+            "link": "https://www.youtube.com/watch?v=Mw_cobXi8fM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
