@@ -1,0 +1,54 @@
+{
+    "id": 68353244,
+    "name": "Nhelv",
+    "author": "SrGuillester",
+    "creators": ["Dienid","SrGuillester"],
+    "verifier": "SrGuillester",
+    "verification": "https://youtu.be/k117h9HUt6s",
+    "percentToQualify": 57,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "ItzMimo",
+            "link": "https://youtu.be/FnaYvsYRvLo?si=k085ySXe7UU7fGtp",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+        "user": "Filipander",
+        "link": "https://youtu.be/MQcyEjsNKco?si=PQ15kuV9rMXqF2wr",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "Silkyy",
+        "link": "https://youtu.be/QcIeisubAOg?si=h_9i4hiIXhNtZrl0",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "Kyuumiko",
+        "link": "https://youtu.be/7lise_41KoE?si=PYbYeHiunphaeR_-",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Cewew",
+        "link": "https://youtu.be/KnHFo6DPndI?si=HnGgzMRCxKxeYi8a",
+        "percent": 96,
+        "hz": 144
+      },
+      {
+        "user": "blobik",
+        "link": "https://youtu.be/ROuYKfZbAMo?si=a8msPskeVdYU87AU",
+        "percent": 85,
+        "hz": 240
+      },
+      {
+        "user": "Nikoo",
+        "link": "https://youtu.be/bj777FZtK0c?si=Dewl7NrkKnw0sF4U",
+        "percent": 66,
+        "hz": 360
+        }
+    ]
+}
