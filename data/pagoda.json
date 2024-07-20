@@ -1,0 +1,18 @@
+{
+    "id": 77669659,
+    "name": "Pagoda",
+    "author": "Seturan",
+    "creators": ["Xiko","Seturan","SyQual","Gyro","AnGyung","Lebi06","Yonaka"],
+    "verifier": "Seturan",
+    "verification": "https://www.youtube.com/watch?v=KVomsNjGalQ",
+    "percentToQualify": 61,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Hubertos",
+            "link": "https://www.youtube.com/watch?v=QupFVOSpyGY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
