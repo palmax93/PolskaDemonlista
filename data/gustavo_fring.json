@@ -1,0 +1,18 @@
+{
+    "id": 80585951,
+    "name": "Gustavo Fring",
+    "author": "Renn241",
+    "creators": ["Renn241","Kutsu"],
+    "verifier": "Acratic",
+    "verification": "https://youtu.be/OB0YiqyEp2E",
+    "percentToQualify": 100,
+    "password": "",
+    "records": [
+        {
+            "user": "Hollin",
+            "link": "https://www.youtube.com/watch?v=qGrXFkpKQkQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
