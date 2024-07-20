@@ -1,0 +1,24 @@
+{
+    "id": 82217720,
+    "name": "untitled unmastered",
+    "author": "para",
+    "creators": ["para"],
+    "verifier": "vinny",
+    "verification": "https://youtu.be/zzPsYgyU4n4",
+    "percentToQualify": 65,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "MiFig",
+            "link": "https://youtu.be/xxP-eUeWtOk?si=4-IORjA1tLt2lR1e",
+            "percent": 100,
+            "hz": 288
+        },
+      {
+        "user": "UnityHost",
+        "link": "https://youtu.be/3LKCgO4vGEw?si=mLFAQlDf7mCpGkhX",
+        "percent": 100,
+        "hz": 240
+        }
+    ]
+}
