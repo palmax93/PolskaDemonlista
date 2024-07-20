@@ -1,0 +1,24 @@
+{
+    "id": 90193093,
+    "name": "Twilight",
+    "author": "zYuko",
+    "creators": ["zYuko"],
+    "verifier": "nei",
+    "verification": "https://www.youtube.com/watch?v=5bZ3RQP7fjs",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "ItzMira",
+            "link": "https://www.youtube.com/watch?v=dOfUEfIDXpc",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+        "user": "bnuuy",
+        "link": "https://www.youtube.com/watch?v=wsNTAhRmMFs",
+        "percent": 100,
+        "hz": 240
+        }
+    ]
+}
