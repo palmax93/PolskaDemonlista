@@ -1,0 +1,60 @@
+{
+    "id": 56703691,
+    "name": "Ouroboros",
+    "author": "ViPriN",
+    "creators": ["Rustam","TrusTa","ViPriN","AbstractDark","G4lvatron","Terron","TheDevon","Darwin","ChaSe","Osiris GD","Loserchik67","FerdeFunky","Desticy"],
+    "verifier": "Technical",
+    "verification": "https://youtu.be/hLTnewDC2Hs",
+    "percentToQualify": 58,
+    "password": "072619",
+    "records": [
+        {
+            "user": "Hubertos",
+            "link": "https://youtu.be/DFTCceFd314?si=2UnYEIxpZ96mmq_c",
+            "percent": 100,
+            "hz": 288
+        },
+      {
+        "user": "Hollin",
+        "link": "https://youtu.be/lo7VvELkPJE?si=Jv8CT0qa6VfE_Rui",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "kvvv",
+        "link": "https://youtu.be/YDVKVmRmm4U?si=MtxVembGObSaI47M",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "OreSpawnMaster3",
+        "link": "https://youtu.be/nXO8XCZfvb4?si=JXphr2-8Rq5jOURF",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "MateleQ",
+        "link": "https://youtu.be/OImkAjV5xdk?si=bYl9ZJ1WcNCCXCdf",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "ItzMira",
+        "link": "https://youtu.be/13gQMXw_eYo?si=kyAjGP852xXw_DEv",
+        "percent": 95,
+        "hz": 240
+      },
+      {
+        "user": "bugs0987",
+        "link": "https://youtu.be/zvdeYYsMO9I?si=EPTNJ6U8kkoXIk1N",
+        "percent": 60,
+        "hz": 360
+      },
+      {
+        "user": "Mezzo",
+        "link": "https://youtu.be/5js7ywDdkfo?si=p28h12T38oyXE71a",
+        "percent": 58,
+        "hz": 144
+        }
+    ]
+}
