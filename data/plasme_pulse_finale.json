@@ -1,0 +1,54 @@
+{
+    "id": 38655495,
+    "name": "Plasma Pulse Finale",
+    "author": "Smokes",
+    "creators": ["Giron","Smokes"],
+    "verifier": "Smokes",
+    "verification": "https://youtu.be/xqzx9cu6XoA",
+    "percentToQualify": 100,
+    "password": "356987",
+    "records": [
+        {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=iG4KDKVKwEM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=TyZBG1SYVns",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Byleom",
+            "link": "https://www.youtube.com/watch?v=9k57GwtcM7k",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Supron",
+            "link": "https://www.youtube.com/watch?v=Nt7psvMzpiQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Xdiot",
+            "link": "https://www.youtube.com/watch?v=e1pF1HyhuIk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kraken",
+            "link": "https://www.youtube.com/watch?v=JPj7OaiOBEw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "vitamin227",
+            "link": "https://www.youtube.com/watch?v=m6bucKm4PpI",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
