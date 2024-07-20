@@ -1,0 +1,18 @@
+{
+    "id": 61598653,
+    "name": "Ourwa",
+    "author": "Demishio",
+    "creators": ["Demishio"],
+    "verifier": "Masa1017",
+    "verification": "https://youtu.be/Q2o_btgo6bg",
+    "percentToQualify": 59,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "BrowarKedawar",
+            "link": "https://youtu.be/KFXQxa4PLY8?si=U5-KdHdmLcGYFNBf",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
