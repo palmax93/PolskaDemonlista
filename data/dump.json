@@ -1,0 +1,24 @@
+{
+    "id": 89513590,
+    "name": "Dump",
+    "author": "GiggsRH",
+    "creators": ["Koopazu","GiggsRH"],
+    "verifier": "ZeusGD",
+    "verification": "https://youtu.be/UDrCb0rzuQo?si=PMoG_iCGC5sWcfZb",
+    "percentToQualify": 55,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "bigfat",
+            "link": "https://youtu.be/PVdP8xNII4w?si=YcZO8qO73hvI5a71",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+        "user": "BlackBird552",
+        "link": "https://youtu.be/DTHDpnrUkGc?si=hYUBc20x5BhwORVA",
+        "percent": 100,
+        "hz": 360
+        }
+    ]
+}
