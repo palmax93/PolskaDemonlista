@@ -1,0 +1,18 @@
+{
+    "id": 93941971,
+    "name": "Cicatrize",
+    "author": "Wintter",
+    "creators": ["Wodka","AlaskaFX","Wintter"],
+    "verifier": "Bleamer",
+    "verification": "https://youtu.be/QfF3jgPQZk0",
+    "percentToQualify": 60,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "kakol",
+            "link": "https://youtu.be/2jDBEWhn1NQ?si=IkY1ccUgykzwypNd",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
