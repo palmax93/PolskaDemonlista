@@ -1,0 +1,36 @@
+{
+    "id": 60564010,
+    "name": "Aronia",
+    "author": "Exen",
+    "creators": ["ZmL","Isane","Exen","Dimonkyky","Bird","DBlade","Synd","Pineapple Cat","GrayRain","ettery","Greenevsky"],
+    "verifier": "Kotamon",
+    "verification": "https://www.youtube.com/watch?v=eJe3i5KyKOk",
+    "percentToQualify": 54,
+    "password": "300320",
+    "records": [
+        {
+            "user": "ChiefKeefSosaGD",
+            "link": "https://www.youtube.com/watch?v=EmTcknX_5Qc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=EkqjpfL7jWw",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Ptiru",
+            "link": "https://www.youtube.com/watch?v=KPu4-AonzLg",
+            "percent": 100,
+            "hz": 288
+        },
+        {  
+            "user": "Hubertos",
+            "link": "https://www.youtube.com/watch?v=rX65P-aeVdA",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
