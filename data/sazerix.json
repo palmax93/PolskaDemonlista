@@ -1,0 +1,18 @@
+{
+    "id": 86787878,
+    "name": "Sazerix",
+    "author": "Zeptrus",
+    "creators": ["Zeptrus"],
+    "verifier": "skycrab",
+    "verification": "https://youtu.be/l8aBStUgYOs?si=YAjydNAYrZBJ-cb-",
+    "percentToQualify": 52,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "rGroomer",
+            "link": "https://docs.google.com/document/d/1apKbzYzDGlY40uF8LNDRonxK7I7bTop7JkC8yozC2yk/edit",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
