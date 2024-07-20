@@ -1,0 +1,96 @@
+{
+    "id": 54615662,
+    "name": "The Yandere",
+    "author": "Dorami",
+    "creators": ["Mazl","Dorami","Mulpan","Partition","CastriX","RoiMousti","DavJT","YanHaSeu14","DanZmeN","MrLorenzo","Jghost217","FarDreamer","alkali","Alderite","Elisione","Master X","BranSilver","Cirtrax","Spectex","Osiris GD","Jonathan GD"],
+    "verifier": "Dorami",
+    "verification": "https://youtu.be/MN6Dra6yAys",
+    "percentToQualify": 100,
+    "password": "",
+    "records": [
+        {
+            "user": "Cewew",
+            "link": "https://www.youtube.com/watch?v=xj05aNWtpwc",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=qFtwSdY4Prw",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Gokill",
+            "link": "https://www.youtube.com/watch?v=XTPQaBZbq54",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "ItzGabrix",
+            "link": "https://www.youtube.com/watch?v=Ll9k3FtfY2A",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Stryg",
+            "link": "https://www.youtube.com/watch?v=UXeas2QveA0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ItzMira",
+            "link": "https://www.youtube.com/watch?v=xcQwcKfnqJA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Vinexdash",
+            "link": "https://www.youtube.com/watch?v=9sb-QKNpFew",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "UKMD1997",
+            "link": "https://www.youtube.com/watch?v=kIQXkbqLGgM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Mone",
+            "link": "https://www.youtube.com/watch?v=5H3vHy8Myn8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "szamle",
+            "link": "https://www.youtube.com/watch?v=b8jO1vCBZy0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "blazejnie",
+            "link": "https://www.youtube.com/watch?v=ao5e8-XRdWg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Nercio0_YT",
+            "link": "https://www.youtube.com/watch?v=8pQ42VjVBLY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "L3m0nGD",
+            "link": "https://www.youtube.com/watch?v=QZJiGufJuZQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "igor",
+            "link": "https://www.youtube.com/watch?v=NP4xSwk0Ksk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
