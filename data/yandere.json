@@ -5,7 +5,7 @@
     "creators": ["Mazl","Dorami","Mulpan","Partition","CastriX","RoiMousti","DavJT","YanHaSeu14","DanZmeN","MrLorenzo","Jghost217","FarDreamer","alkali","Alderite","Elisione","Master X","BranSilver","Cirtrax","Spectex","Osiris GD","Jonathan GD"],
     "verifier": "Dorami",
     "verification": "https://youtu.be/MN6Dra6yAys",
-    "percentToQualify": 100,
+    "percentToQualify": 51,
     "password": "",
     "records": [
         {
@@ -91,6 +91,30 @@
             "link": "https://www.youtube.com/watch?v=NP4xSwk0Ksk",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "blazer2",
+            "link": "https://youtu.be/KsJltlmPntE?si=Aq3TPTqPKqunGme9",
+            "percent": 76,
+            "hz": 144
+        },
+        {
+            "user": "Doubley",
+            "link": "https://youtu.be/9CTfxY5oB7g?si=uN_G2QmZTRAcaUp4",
+            "percent": 58,
+            "hz": 240
+        },
+        {
+            "user": "Plus0ne",
+            "link": "https://youtu.be/9liUvad1dIs?si=1i7-wXNz_67OFENM",
+            "percent": 54,
+            "hz": 240
+        },
+        {
+            "user": "VitoGD"
+            "link": "https://youtu.be/qU9gZPf7Lgo?si=k7SU37mp8GiwHppO",
+            "percent": 52,
+            "hz": 280
         }
     ]
 }
