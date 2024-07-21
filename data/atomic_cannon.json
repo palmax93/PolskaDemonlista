@@ -9,6 +9,12 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "Byleom",
+            "link": "https://www.youtube.com/watch?v=0vH-RMUkeVY",
+            "percent": 100,
+            "hz": 288
+        },
+        {
             "user": "Dominez",
             "link": "https://www.youtube.com/watch?v=uMwhLfzqCmQ",
             "percent": 100,
