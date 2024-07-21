@@ -10,14 +10,24 @@
         "link": "https://www.youtube.com/@LemonGD"
     },
     {
-        "role": "helper",
+        "role": "owner",
         "name": "Lanx",
         "link": "https://www.youtube.com/@itzlanx"
     },
     {
         "role": "helper",
+        "name": "pal_max",
+        "link": "https://www.youtube.com/@pal_max125/videos"
+    },
+    {
+        "role": "helper",
         "name": "UKMD1997",
         "link": "https://www.youtube.com/@ukmd1997"
+    },
+    {
+        "role": "helper",
+        "name": "Giedek",
+        "link": "https://www.youtube.com/channel/UCkGMnK7FsD-Cjix3dm4DkkA"
     },
     {
         "role": "dev",
