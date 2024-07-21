@@ -43,7 +43,12 @@
         "link": "https://www.youtube.com/watch?v=1plHl_AuMIs",
         "percent": 100,
         "hz": 480
-        
+      },
+        {
+            "user": "kasia",
+            "link": "https://youtu.be/Xrcosuzn6-8?si=WwKFyz4ptcIaTb4L",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
