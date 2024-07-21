@@ -1,0 +1,18 @@
+{
+    "id": 71571300,
+    "name": "Fragmented",
+    "author": "Cersia",
+    "creators": ["Cersia","Sink"],
+    "verifier": "TGM05",
+    "verification": "https://youtu.be/7wrpprd9nOw",
+    "percentToQualify": 100,
+    "password": "FREE TO COPY",
+    "records": [
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=jr88fe1YUSM",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
