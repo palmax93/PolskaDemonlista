@@ -1,0 +1,18 @@
+{
+    "id": 102144924,
+    "name": "WORSTBRAINMAP",
+    "author": "Bimms",
+    "creators": ["Bimms"],
+    "verifier": "Bimms",
+    "verification": "https://youtu.be/GWjIIFktU04",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=Y8ykAGRDZlw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
