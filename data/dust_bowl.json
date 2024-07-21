@@ -1,0 +1,18 @@
+{
+    "id": 94120931,
+    "name": "Dust Bowl",
+    "author": "GDikonik",
+    "creators": ["GDikonik"],
+    "verifier": "ProudGiraffe331",
+    "verification": "https://www.youtube.com/watch?v=EXuxHOAAVrI",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "kasia",
+            "link": "https://youtu.be/eVHmwhE_Vgk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
