@@ -1,0 +1,30 @@
+{
+    "id": 72570152,
+    "name": "CHROMA FINALE",
+    "author": "Renn241",
+    "creators": ["Renn241"],
+    "verifier": "saturn",
+    "verification": "https://youtu.be/ByJ9rz4-WUI",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Byleom",
+            "link": "https://www.youtube.com/watch?v=ybnjunz0kic",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=RyEpLFyhnys",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=0n7c88cWAq0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
