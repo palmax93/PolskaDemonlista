@@ -1,0 +1,18 @@
+{
+    "id": 84114885 ,
+    "name": "SZYSLAK",
+    "author": "Zeniux",
+    "creators": ["Zeniux","ZeusGD"],
+    "verifier": "maxis044",
+    "verification": "https://www.youtube.com/watch?v=CUov9IB5wjg",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "maxis044",
+            "link": "https://www.youtube.com/watch?v=CUov9IB5wjg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
