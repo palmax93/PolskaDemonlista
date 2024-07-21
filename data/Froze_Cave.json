@@ -1,0 +1,54 @@
+{
+    "id": 68908396,
+    "name": "Frozen Cave",
+    "author": "TrueParadoxTeam",
+    "creators": ["AlexOris","Quicklen","Sleynt","FlashWings576","DimaCrut","Aqualime","Vornickon","TyakyoFyai"],
+    "verifier": "khrizmass5",
+    "verification": "https://youtu.be/BFaqgkw-Hg0",
+    "percentToQualify": 54,
+    "password": "060521",
+    "records": [
+        {
+            "user": "kvvv",
+            "link": "https://youtu.be/b9EVToU9fdU",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "BrowarKedawar",
+            "link": "https://youtu.be/DUv5qjKscsA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ptiru",
+            "link": "https://youtu.be/8OQEOL71hQw",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Silkyy",
+            "link": "https://youtu.be/rs3SKfwwEXk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "bigfat",
+            "link": "https://youtu.be/mT8kWYZM5bU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "laze",
+            "link": "https://youtu.be/yiy4nlecJ0w",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kasiaUwU",
+            "link": "https://youtu.be/RJ1qrsjBdWA",
+            "percent": 100,
+            "hz": 360
+        }
+]
+}
