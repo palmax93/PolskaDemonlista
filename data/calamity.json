@@ -1,0 +1,18 @@
+{
+    "id": 64766514,
+    "name": "Calamity",
+    "author": "Awedsy",
+    "creators": ["Awedsy"],
+    "verifier": "Kurumi",
+    "verification": "https://youtu.be/2u4xxNUtJLI",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "kasiaUwU",
+            "link": "https://youtu.be/mLK8iN_o1nw",
+            "percent": 100,
+            "hz": 360
+        }      
+]
+}
