@@ -5,7 +5,7 @@
     "creators": ["HaNavi","Ticky","Krampux","KeiAs","Vismuth","1234","Mulpan","Dister K","DEMN","Dominator","Soulsand","DarkBoshy","Nonamed","C4rpediem","Hobbyboat","Spica","Ekko4","Renovatio","Senousia","MoonlightEVE","LioLeo","ThorMode","Mayb3e"],
     "verifier": "Seturan",
     "verification": "https://youtu.be/hHpaB752peM",
-    "percentToQualify": 100,
+    "percentToQualify": 47,
     "password": "",
     "records": [
         {
@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=sr8kFg5KfvE",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Mando",
+            "link": "https://youtu.be/_3m-iHe5Fz4?si=gIpSUYLHkhCSnlcX",
+            "percent": 71,
+            "hz": 240
         }
     ]
 }
