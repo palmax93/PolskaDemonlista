@@ -1,0 +1,18 @@
+{
+    "id": 93020424,
+    "name": "Excruciation Chamber",
+    "author": "spcreat",
+    "creators": ["spcreat","UFWM"],
+    "verifier": "spcreat",
+    "verification": "https://youtu.be/BdkuNdFfY-o",
+    "percentToQualify": 60,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "kasia",
+            "link": "https://youtu.be/5d_PrtQmrPM?si=9xOJP8jzVRyL7fZd",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
