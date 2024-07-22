@@ -1,0 +1,48 @@
+{
+    "id": 60740290,
+    "name": "Aquatic Auroras",
+    "author": "Endlevel",
+    "creators": ["Endlevel","El3ctr0","LimeTime313"],
+    "verifier": "kyoto",
+    "verification": "https://youtu.be/cD0zZ9OJkBE",
+    "percentToQualify": 40,
+    "password": "789123",
+    "records": [
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=jwPGRIYfJxU",
+            "percent": 100,
+            "hz": 300
+        },      
+        {
+            "user": "Bobssy",
+            "link": "https://www.youtube.com/watch?v=vKz__1wyZBQ",
+            "percent": 100,
+            "hz": 300
+        },      
+        {
+            "user": "Ptiru",
+            "link": "https://www.youtube.com/watch?v=mRHVtz4542I",
+            "percent": 100,
+            "hz": 288
+        },     
+        {
+            "user": "Stasiu150",
+            "link": "https://www.youtube.com/watch?v=5pJCu77JsEM",
+            "percent": 100,
+            "hz": 0
+        },      
+        {
+            "user": "cultist",
+            "link": "https://www.youtube.com/watch?v=M8uRdr-9mI4",
+            "percent": 100,
+            "hz": 360
+        },      
+        {
+            "user": "UnityHost",
+            "link": "https://www.youtube.com/watch?v=2b2M2mS0tFU",
+            "percent": 100,
+            "hz": 288
+        }      
+]
+}
