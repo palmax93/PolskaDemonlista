@@ -1,0 +1,18 @@
+{
+    "id": 90400834,
+    "name": "network",
+    "author": "VanDerVals",
+    "creators": ["VanDerVals","IMINAY"],
+    "verifier": "Allex",
+    "verification": "https://youtu.be/9Nu0qgKmNsU",
+    "percentToQualify": 100,
+    "password": "123457",
+    "records": [
+        {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=LKwWIK8oFPk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
