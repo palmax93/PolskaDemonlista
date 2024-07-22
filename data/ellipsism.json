@@ -1,0 +1,18 @@
+{
+    "id": 81373023,
+    "name": "Ellipsism",
+    "author": "Swib",
+    "creators": ["Swib"],
+    "verifier": "Bibuu",
+    "verification": "https://youtu.be/tp6-hpqtnWk",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "kasiaUwU",
+            "link": "https://www.youtube.com/watch?v=KoNebyIXeHg",
+            "percent": 100,
+            "hz": 240
+        }             
+]
+}
