@@ -1,0 +1,60 @@
+{
+    "id": 68688849,
+    "name": "Sonic Wave Rebirth",
+    "author": "Serponge",
+    "creators": ["Serponge","Cyclic","Funnygame"],
+    "verifier": "Moosh",
+    "verification": "https://youtu.be/wXxPNaqTZKU",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TheRealLcK",
+            "link": "https://youtu.be/q-1fOvn6Ulc",
+            "percent": 100,
+            "hz": 360
+        },             
+        {
+            "user": "czehuu",
+            "link": "https://www.youtube.com/watch?v=mooq9gHWIKA",
+            "percent": 100,
+            "hz": 360
+        },             
+        {
+            "user": "WaveISTheBest",
+            "link": "https://youtu.be/owN4fcHYheU",
+            "percent": 100,
+            "hz": 360
+        },            
+       {
+            "user": "KubeczekTV",
+            "link": "https://www.youtube.com/watch?v=uGx2xSkac4w",
+            "percent": 100,
+            "hz": 360
+        },            
+       {
+            "user": "DawideriX",
+            "link": "https://youtu.be/_0n6MkETiHY",
+            "percent": 100,
+            "hz": 360
+        },            
+       {
+            "user": "bugs0987",
+            "link": "https://youtu.be/UvSJzR2hLJg",
+            "percent": 100,
+            "hz": 320
+        },           
+       {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=raBtmMihCuQ",
+            "percent": 100,
+            "hz": 360
+        },            
+      {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=VR8UtU4IyE8",
+            "percent": 100,
+            "hz": 360
+        }            
+]
+}
