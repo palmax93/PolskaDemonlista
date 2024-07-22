@@ -1,0 +1,54 @@
+{
+    "id": 79619086,
+    "name": "ConTroller",
+    "author": "DreamZoneGD",
+    "creators": ["DreamZoneGD"],
+    "verifier": "DreamZoneGD",
+    "verification": "https://youtu.be/kXLBuSDagOE",
+    "percentToQualify": 100,
+    "password": "000603",
+    "records": [
+        {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=fpZDFrZ_Bjg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Kafpu",
+            "link": "https://www.youtube.com/watch?v=xNwq6YIU9M4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=V9C9eeG-AOM",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Hubertos",
+            "link": "https://www.youtube.com/watch?v=fa-hI9JqzYw",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Unityhost",
+            "link": "https://www.youtube.com/watch?v=z5eUE_9cZxY",
+            "percent": 100,
+            "hz": 240  
+        },
+        {
+            "user": "bugs0987",
+            "link": "https://www.youtube.com/watch?v=UYcPA2iGi30",
+            "percent": 100,
+            "hz": 360
+        },
+        {          
+            "user": "Kyuumiko",
+            "link": "https://www.youtube.com/watch?v=qlNJAF0dCWI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
