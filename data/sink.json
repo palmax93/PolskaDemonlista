@@ -1,0 +1,54 @@
+{
+    "id": 77255632,
+    "name": "Sink",
+    "author": "Awedsy",
+    "creators": ["Awedsy"],
+    "verifier": "nac",
+    "verification": "https://youtu.be/qX6yzZey9Ng",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Ptiru",
+            "link": "https://youtu.be/qX6yzZey9Ng",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Lezgos",
+            "link": "https://www.youtube.com/watch?v=rUjHLZvygyA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "bnuuy",
+            "link": "https://www.youtube.com/watch?v=aGyHdwAWCCU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "UnityHost",
+            "link": "https://www.youtube.com/watch?v=_LuXAWzRW3Q",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Hollin",
+            "link": "https://www.youtube.com/watch?v=hII2T6edWzg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "cultist",
+            "link": "https://www.youtube.com/watch?v=XfLZ20AEtVE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kakol",
+            "link": "https://www.youtube.com/watch?v=oLQ0BkoO91E",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
