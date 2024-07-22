@@ -1,0 +1,24 @@
+{
+    "id": 59157630,
+    "name": "Mirrored Calamity",
+    "author": "Nimbus",
+    "creators": ["DemonDasher","Davphla","KrmaL","Rustam","hawkyre","nasgubb","AbstractDark","Lumpy","TheDevon","para","Shocksidian","GDSpeed","Moosh","Twoots","Doodlo","Viceroy","Cinereal","Willflame","Fimatic","JustJoking","Musikbike","Cheeseguy","Skybound","sooop"],
+    "verifier": "Nimbus",
+    "verification": "https://youtu.be/5Wo0eFR8Lwk",
+    "percentToQualify": 100,
+    "password": "016422",
+    "records": [
+        {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=bRpxyGj8bdA",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+        "user": "kvvv",
+        "link": "https://www.youtube.com/watch?v=BPZ71WRFtIo",
+        "percent": 100,
+        "hz": 288
+        }
+    ]
+}
