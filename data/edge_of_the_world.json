@@ -2,11 +2,11 @@
     "id": ,
     "name": "Edge of the World",
     "author": "",
-    "creators": ["Luksa","WhitePythor","Manheadrambo,"XinpA","FlaksY","L4tezk","Lumihiutale","ked","DreamZoneGD","Novaach","Jiikoo","Ultimxte","LapoGD","Custi","Miikkem","At424"],
+    "creators": ["Luksa","WhitePythor","Manheadrambo","XinpA","FlaksY","L4tezk","Lumihiutale","ked","DreamZoneGD","Novaach","Jiikoo","Ultimxte","LapoGD","Custi","Miikkem","At424"],
     "verifier": "L4tezk",
     "verification": "https://www.youtube.com/watch?v=QWy1RnPDCWk",
     "percentToQualify": 100,
-    "password": "",
+    "password": "Free To Copy",
     "records": [
         {
             "user": "kasia",
@@ -19,5 +19,6 @@
             "link": "https://www.youtube.com/watch?v=OkbTCePw6l8",
             "percent": 100,
             "hz": 360
+        }
     ]
 }
