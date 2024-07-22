@@ -1,0 +1,24 @@
+{
+    "id": 76653933,
+    "name": "Storming Summit",
+    "author": "Gabs",
+    "creators": ["Gabs","YakobNugget","Kiba","ML500","BlazeRol","Colorbolt","Nimbus","notlsa","Reunomi","Grax","Yoonsr","Geo","Syndrome","Yuko","Hypno","Wesp","xoanon","Belonzik","Endevvor","BlueLite","Studt","Aleph","BlowMyPooh","matty2003","rynoxious","plaz"],
+    "verifier": "Ozzy",
+    "verification": "https://www.youtube.com/watch?v=ymmMnZLpfQU&t=87s",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Ptiru",
+            "link": "https://www.youtube.com/watch?v=di62YJFN_KQ",
+            "percent": 100,
+            "hz": 288
+        },
+{
+            "user": "KubeczekTV",
+            "link": "https://www.youtube.com/watch?v=LPBcWoFO0QM",
+            "percent": 100,
+            "hz": 360
+}
+    ]
+}
