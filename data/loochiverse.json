@@ -1,0 +1,42 @@
+{
+    "id": 81373023,
+    "name": "Loochiverse",
+    "author": "Nerhy",
+    "creators": ["Azuvy","Koopazu","Wahffle","Looch","Nerhy","Hypno","DTDom","twister","GiggsRH"],
+    "verifier": "DTDom",
+    "verification": "https://youtu.be/W3dCHPubwvE",
+    "percentToQualify": 100,
+    "password": "080085",
+    "records": [
+        {
+            "user": "kvvv",
+            "link": "https://youtu.be/dHiJGl5PAJw",
+            "percent": 100,
+            "hz": 300
+        },      
+        {
+            "user": "Hubertos",
+            "link": "https://youtu.be/kvQe3qz5p9s",
+            "percent": 100,
+            "hz": 288
+        },      
+        {
+            "user": "bugs0987",
+            "link": "https://youtu.be/GH6U9C42e_k",
+            "percent": 100,
+            "hz": 360
+        },      
+       {
+            "user": "bigfat",
+            "link": "https://youtu.be/BDbbYg96WIA",
+            "percent": 100,
+            "hz": 144
+        }      
+        {
+            "user": "kasiaUwU",
+            "link": "https://youtu.be/dSHVICMmxDc",
+            "percent": 100,
+            "hz": 240
+        },             
+]
+}
