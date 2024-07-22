@@ -16,7 +16,13 @@
         },
         {
             "user": "Hasik",
-            "link": "hhttps://www.youtube.com/watch?v=2KxVrOrGBN0",
+            "link": "https://www.youtube.com/watch?v=2KxVrOrGBN0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kasia"m
+            "link": "https://youtu.be/l9tO1o1QI0g",
             "percent": 100,
             "hz": 360
         }
