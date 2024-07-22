@@ -1,0 +1,48 @@
+{
+    "id": 59539361,
+    "name": "Eternal Moment",
+    "author": "Rainstorm",
+    "creators": ["Rainstorm","iEstia","TheCdPre","ZelLink"],
+    "verifier": "nSwish",
+    "verification": "https://www.youtube.com/watch?v=isu-GqFGElI",
+    "percentToQualify": 100,
+    "password": "086400",
+    "records": [
+        {
+            "user": "Supron",
+            "link": "https://www.youtube.com/watch?v=IER1KV6CoTo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Bobssy",
+            "link": "https://www.youtube.com/watch?v=6EK94IMN2n8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=Lro4au80T7c",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Ptiru",
+            "link": "https://www.youtube.com/watch?v=pXuPrReZ4iY",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "bugs0987",
+            "link": "https://www.youtube.com/watch?v=mtDtPOfRisw",
+            "percent": 100,
+            "hz": 321    
+        },
+        {
+            "user": "UnityHost",
+            "link": "https://www.youtube.com/watch?v=LGsYAwSNhxQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
