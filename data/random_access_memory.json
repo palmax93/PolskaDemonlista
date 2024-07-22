@@ -1,0 +1,23 @@
+{
+    "id": 81372683,
+    "name": "RANDOM ACCESS MEMORY",
+    "author": "XLSpiral",
+    "creators": ["Zeronium","Krisz","SleyGD","OliSW","kreno","Acute","AAAAAlex","Trunith","Oleki","valentine"],
+    "verifier": "Zeronium",
+    "verification": "https://youtu.be/2Lc4Vsbf1o0",
+    "percentToQualify": 100,
+    "password": "471206",
+    "records": [
+        {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=_b0lO4BfO10",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+        "user": "HAsik",
+        "link": "hhttps://www.youtube.com/watch?v=2KxVrOrGBN0",
+        "percent": 100,
+        "hz": 360
+        }
+    ]
