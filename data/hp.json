@@ -1,0 +1,43 @@
+{
+    "id": 42117203,
+    "name": "Hyper Paracosm",
+    "author": "iIiViRuZiIi",
+    "creators": ["TheRealSneaky","iIiViRuZiIi"],
+    "verifier": "joeingly",
+    "verification": "https://youtu.be/zQbU_2To0bg",
+    "percentToQualify": 100,
+    "password": "789123",
+    "records": [
+             {
+            "user": "Kapinapi",
+            "link": "https://youtu.be/8eEYbl7r5C4",
+            "percent": 100,
+            "hz": 144
+        },
+           {
+            "user": "Bobssy",
+            "link": "https://youtu.be/VqyDRZgAvJc",
+            "percent": 100,
+            "hz": 300
+        },
+         {
+            "user": "kvvv",
+            "link": "https://youtu.be/payjaWbiDRw",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Hollin",
+            "link": "hhttps://youtu.be/VOfjqjnyqnk",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+           "user": "Lanx",
+            "link": "https://youtu.be/6DJmW8oMzIA",
+            "percent": 100,
+            "hz": 360
+        },
+ 
+    ]
+}
