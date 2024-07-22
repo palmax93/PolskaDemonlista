@@ -104,6 +104,7 @@
     "gamma",
     "network",
     "power_grid",
-    "spacial_rend"
-    
+    "spacial_rend",
+    "hp"
+
 ]
