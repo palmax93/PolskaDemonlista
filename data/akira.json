@@ -1,0 +1,42 @@
+{
+    "id": 88421468,
+    "name": "Akira",
+    "author": "Eridani",
+    "creators": ["Eridani","Denni"],
+    "verifier": "Solus",
+    "verification": "https://youtu.be/RHCCZkf4UFM",
+    "percentToQualify": 100,
+    "password": "999999",
+    "records": [
+        {
+            "user": "ELLVO",
+            "link": "https://youtu.be/bFrllEpQmiw",
+            "percent": 100,
+            "hz": 360
+        }      
+       {
+            "user": "NeiK0n",
+            "link": "https://youtu.be/GXgf5tLoebQ",
+            "percent": 100,
+            "hz": 240
+       }      
+      {
+            "user": "kvvv",
+            "link": "https://youtu.be/h2_8vTHyOzw",
+            "percent": 100,
+            "hz": 360
+        }      
+      {
+            "user": "KubeczekTV",
+            "link": "https://youtu.be/aUwljPVo04o",
+            "percent": 100,
+            "hz": 360
+        }      
+       {
+            "user": "kasiaUwU",
+            "link": "https://youtu.be/ABkGdo4ffVE",
+            "percent": 100,
+            "hz": 360
+        }      
+]
+}
