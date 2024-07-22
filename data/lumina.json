@@ -1,0 +1,24 @@
+{
+    "id": 89488413,
+    "name": "LUMINA",
+    "author": "hechie",
+    "creators": ["hechie","Z3nithGD","Splinter25","R3XX3R","kubuwu","ThunderDarkness","VARSE","Ultimxte"],
+    "verifier": "Lia",
+    "verification": "https://youtu.be/ug9mjzRT7Ao",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=pbGMJnR1f48",
+            "percent": 100,
+            "hz": 240
+        },           
+        {
+            "user": "UnityHost",
+            "link": "https://youtu.be/_FyFxGNnPNM",
+            "percent": 100,
+            "hz": 240
+        }             
+]
+}
