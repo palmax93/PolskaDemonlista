@@ -14,10 +14,11 @@
             "percent": 100,
             "hz": 240
         },
-      {
-        "user": "HAsik",
-        "link": "hhttps://www.youtube.com/watch?v=2KxVrOrGBN0",
-        "percent": 100,
-        "hz": 360
+        {
+            "user": "Hasik",
+            "link": "hhttps://www.youtube.com/watch?v=2KxVrOrGBN0",
+            "percent": 100,
+            "hz": 360
         }
     ]
+)
