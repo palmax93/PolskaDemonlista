@@ -1,0 +1,36 @@
+{
+    "id": 96470224,
+    "name": "Kjdf8314jlfssf",
+    "author": "Kapycta999",
+    "creators": ["Kapycta999"],
+    "verifier": "BONN GD",
+    "verification": "https://youtu.be/FgOR1jwsXww",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Kafpu",
+            "link": "https://www.youtube.com/watch?v=ignULAbD5M4",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+        "user": "BrowarKedawar",
+        "link": "https://www.youtube.com/watch?v=y94rtcQx_uU",
+        "percent": 100,
+        "hz": 0
+      },
+      {
+        "user": "Byleom",
+        "link": "https://www.youtube.com/watch?v=O28HxqJsQQg",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "kakol",
+        "link": "https://www.youtube.com/watch?v=NE45_0x0KyM",
+        "percent": 100,
+        "hz": 240
+        }
+    ]
+}
