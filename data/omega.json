@@ -1,0 +1,36 @@
+{
+    "id": 59706883,
+    "name": "Omega",
+    "author": "MindCap",
+    "creators": ["Molds","Zero","Lemons","Mezzo","Kllnex","Zeroya","Fufafac","Helpegasus","Giron","knobbelboy","TehTactiq","Vismuth","Masu","Xaren","Koolboom","Arb","Mactanow","Scrumpy","Temp","Ryder","Pennutoh","Thomartin","Sogogi","GDSean","Vlacc","Shocksidian","HJfod","MindCap","RadiationV2","Metalface221","Darwin"],
+    "verifier": "xander",
+    "verification": "https://youtu.be/VqOMZLoiwAs",
+    "percentToQualify": 100,
+    "password": "772002",
+    "records": [
+        {
+            "user": "Hubertos",
+            "link": "https://youtu.be/JIr26k0Xs94",
+            "percent": 100,
+            "hz": 288
+        },
+       {
+            "user": "Gremlin325",
+            "link": "https://youtu.be/5Qv9jyGJCvg",
+            "percent": 100,
+            "hz": 288
+        },
+         {
+            "user": "Xdiot",
+            "link": "https://youtu.be/AlvEeT6m29Q",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kvvv",
+            "link": "https://youtu.be/sGT8par-VCk",
+            "percent": 100,
+            "hz": 288
+        }
+]
+}
