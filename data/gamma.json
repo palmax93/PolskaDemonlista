@@ -1,0 +1,24 @@
+{
+    "id": 39832454,
+    "name": "Gamma",
+    "author": "MindCap",
+    "creators": ["Angryboy","Lemons","Metalface221","Mindcap","Pennutoh","Lithifusion","Mactanow","Djoxy","HequinoX","iNighti"],
+    "verifier": "Technical",
+    "verification": "https://youtu.be/HTXRWzS2aw8",
+    "percentToQualify": 100,
+    "password": "772002",
+    "records": [
+        {
+            "user": "Hubertos",
+            "link": "https://www.youtube.com/watch?v=a6VxfVszPpY",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=ss-mQjMexxE",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
