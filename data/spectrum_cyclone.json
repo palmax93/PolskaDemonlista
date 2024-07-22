@@ -1,0 +1,67 @@
+{
+    "id": 59209010,
+    "name": "Spectrum Cyclone",
+    "author": "Temp",
+    "creators": ["Temp"],
+    "verifier": "Temp",
+    "verification": "https://www.youtube.com/watch?v=IN0XeMo2SmM",
+    "percentToQualify": "53",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=B05dVX6tNtk",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "ItzGabrix",
+            "link": "https://www.youtube.com/watch?v=YmWPGAUvxKw",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "UKMD1997",
+            "link": "https://www.youtube.com/watch?v=RLaJZCH61gA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TheRealLck",
+            "link": "https://www.youtube.com/watch?v=8exFVG3qoXo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Supron",
+            "link": "https://www.youtube.com/watch?v=gE2vV5qn5AE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "KubeczekTV",
+            "link": "https://www.youtube.com/watch?v=y1tAs8E5QIQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Hasik",
+            "link": "https://www.youtube.com/watch?v=2_ucAYtIFxA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kyuumiko",
+            "link": "https://www.youtube.com/watch?v=cixetNyUqYQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "UnliMiteR",
+            "link": "https://www.youtube.com/watch?v=OoqTIT-91OM",
+            "percent": 100,
+            "hz": 0
+        }
+    }
+)
+            
