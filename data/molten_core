@@ -1,0 +1,42 @@
+{
+    "id": 68414488,
+    "name": "Molten Core",
+    "author": "Janucha",
+    "creators": ["Janucha"],
+    "verifier": "iiLogan",
+    "verification": "https://www.youtube.com/watch?v=kWCiW7ovnWw&pp=ygUUbW9sdGVuIGNvcmUgdmVyaWZpZWQ%3D",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Bobssy",
+            "link": "https://www.youtube.com/watch?v=CQIGsbGSPo0",
+            "percent": 100,
+            "hz": 300
+        },
+        { 
+            "user": "Byleom",
+            "link": "https://www.youtube.com/watch?v=LXxcjD9tBjg",
+            "percent": 100,
+            "hz": 288
+        },
+        { 
+            "user": "Ptiru",
+            "link": "https://www.youtube.com/watch?v=NVvk394fHtU",
+            "percent": 100,
+            "hz": 288
+        },  
+        { 
+            "user": "UnityHost",
+            "link": "https://www.youtube.com/watch?v=KjxZpN4xzHE",
+            "percent": 100,
+            "hz": 288
+        },
+        { 
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=cAHiTXK_HNg",
+            "percent": 100,
+            "hz": 240
+        },
+    ]
+}
