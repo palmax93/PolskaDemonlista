@@ -1,0 +1,91 @@
+{
+    "id": 26681070,
+    "name": "Sonic Wave",
+    "author": "Sunic",
+    "creators": ["Cyclic"],
+    "verifier": "Sunic",
+    "verification": "https://youtu.be/GpXTwPgweAk",
+    "percentToQualify": 100,
+    "password": "112516",
+    "records": [
+        {
+            "user": "Ptiru",
+            "link": "https://www.youtube.com/watch?v=-93I3mIKDYU",
+            "percent": 100,
+            "hz": 288
+        },             
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=da47rkxC4Uw",
+            "percent": 100,
+            "hz": 300
+        },             
+        {
+            "user": "Drobi",
+            "link": "https://www.youtube.com/watch?v=aiPmERAb5qk",
+            "percent": 100,
+            "hz": 360
+        },            
+       {
+            "user": "TheRealLcK",
+            "link": "https://www.youtube.com/watch?v=BoHu1O08iBU",
+            "percent": 100,
+            "hz": 360
+        },            
+          {
+            "user": "VoVocado",
+            "link": "https://www.youtube.com/watch?v=hr6ECz8sUP4",
+            "percent": 100,
+            "hz": 144
+        },            
+         {
+            "user": "czehuu",
+            "link": "https://www.youtube.com/watch?v=2QLH_RGccms",
+            "percent": 100,
+            "hz": 240
+        },                
+      {
+            "user": "McJohnGD",
+            "link": "https://www.youtube.com/watch?v=bTpvd1kxjlQ",
+            "percent": 100,
+            "hz": 144
+        },                 
+        {
+            "user": "iiTzKetchup",
+            "link": "https://youtu.be/pMSObvDYgf8",
+            "percent": 100,
+            "hz": 360
+        },                 
+           {
+            "user": "Dawiderix",
+            "link": "https://www.youtube.com/watch?v=ZbYK80dAreU",
+            "percent": 100,
+            "hz": 360
+        },                 
+      {
+            "user": "KubeczekTV",
+            "link": "https://www.youtube.com/watch?v=P2j1Q1SXR14",
+            "percent": 100,
+            "hz": 360
+        },                 
+    {
+            "user": "Makov",
+            "link": "https://www.youtube.com/watch?v=C_k_o1FtiP0",
+            "percent": 100,
+            "hz": 360
+        },            
+         {
+            "user": "Hasik",
+            "link": "https://www.youtube.com/watch?v=Jo2jwnrvPUY",
+            "percent": 100,
+            "hz": 360
+        },                   
+      {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=5aQFGPM1Lr4",
+            "percent": 100,
+            "hz": 360
+        }            
+
+]
+}
