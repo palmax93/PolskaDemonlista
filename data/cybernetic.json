@@ -1,0 +1,42 @@
+{
+    "id": 66291197,
+    "name": "Cybernetic Crescent",
+    "author": "ViPriN",
+    "creators": ["Vlacc","Rustam","Enzore","FirsGD","FerdeFunky","TheDevon","Shocksidian","Terron","Samifying","ViPriN","Codex","G4lvatron","Floppy","zalspr","Serponge","Hinds","nasgubb"],
+    "verifier": "Technical",
+    "verification": "https://youtu.be/0yKtq1PJeDQ",
+    "percentToQualify": 100,
+    "password": "010721",
+    "records": [
+             {
+            "user": "kvvv",
+            "link": "https://youtu.be/Xp7FboArdh0",
+            "percent": 100,
+            "hz": 300
+        },
+           {
+            "user": "Hollin",
+            "link": "https://youtu.be/CSUDqJREGtI",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "kvvv",
+            "link": "https://youtu.be/payjaWbiDRw",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Hubertos",
+            "link": "https://youtu.be/5VPPz9f_5jo",
+            "percent": 100,
+            "hz": 288
+        },
+       {
+           "user": "Kafpu",
+            "link": "https://youtu.be/E38q4IpkHI8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
