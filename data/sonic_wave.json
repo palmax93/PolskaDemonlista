@@ -1,0 +1,96 @@
+{
+    "id": 26681070,
+    "name": "Sonic Wave",
+    "author": "lSunix",
+    "creators": ["Cyclic"],
+    "verifier": "lSunix",
+    "verification": "https://youtu.be/GpXTwPgweAk",
+    "percentToQualify": 100,
+    "password": "112516",
+    "records": [
+        {
+            "user": "Ptiru",
+            "link": "https://youtu.be/-93I3mIKDYU?si=GYvZuhI2xz37ohc4",
+            "percent": 100,
+            "hz": 288
+        },
+      {
+        "user": "kvvv",
+        "link": "https://youtu.be/da47rkxC4Uw?si=zpUn059lYh2me2As",
+        "percent": 100,
+        "hz": 300
+      },
+      {
+        "user": "Drobi",
+        "link": "https://youtu.be/aiPmERAb5qk?si=vGqcpvDZVh2z1djR",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "TheRealLCK",
+        "link": "https://www.youtube.com/watch?v=BoHu1O08iBU",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "VoVocado",
+        "link": "https://youtu.be/hr6ECz8sUP4?si=FzLPopjSyLUINcTc",
+        "percent": 100,
+        "hz": 144
+      },
+      {
+        "user": "czehuu",
+        "link": "https://www.youtube.com/watch?v=2QLH_RGccms",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "McJohnGD",
+        "link": "https://youtu.be/bTpvd1kxjlQ?si=k7dwSfKC_ZcFdbY0",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "iiTzKetchup",
+        "link": "https://youtu.be/pMSObvDYgf8?si=I76bvs9S2HDoXHUc",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "DawideriX",
+        "link": "https://youtu.be/ZbYK80dAreU?si=2vf5luR3KCyJzMwT",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "KubeczekTV",
+        "link": "https://youtu.be/P2j1Q1SXR14?si=c2BzFCV7Z8NTZh_i",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Makov",
+        "link": "https://youtu.be/C_k_o1FtiP0?si=peI-2m__v9rdHhjX",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "Hasik",
+        "link": "https://youtu.be/Jo2jwnrvPUY?si=HF1sObo3w4rXxXMc",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "kasia",
+        "link": "https://youtu.be/5aQFGPM1Lr4?si=y81ZtI6KKQIHskv2",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "MateleQ",
+        "link": "https://youtu.be/jWuQr5-kFcg?si=hDhSFUUO_PyAspii",
+        "percent": 100,
+        "hz": 240
+        }
+    ]
+}
