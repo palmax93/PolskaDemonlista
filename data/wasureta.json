@@ -157,6 +157,12 @@
             "link": "https://www.youtube.com/watch?v=nUU4RiPTbbs",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "MateleQ",
+            "link": "https://youtu.be/s5BNFtJGNDw?si=5mFCO44xfLqjbxIr",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
