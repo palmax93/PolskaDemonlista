@@ -4,7 +4,7 @@
     "author": "APTeamOfficial",
     "creators": ["Riot","Sunix","Cyclic","Zhander","Zimnior12","Tribar","Reunomi","Zipixbox","DoSh7t","Requiem","Realvet","Avati","Culuc","FiryTheGoat","Nickalopogas","Uriun","KrazyGFX","Zuku","GD Endy","Heso","AppleCr","Meox","Lambda","Shant"],
     "verifier": "DoSh7t",
-    "verification": "https://youtu.be/0I9xCfTOpXg?si=oI7mhaGQQh7vVHMJ",
+    "verification": "https://youtu.be/WoEs5kfh8zI?si=0vDFTIObBTyMfVmI",
     "percentToQualify": 66,
     "password": "Free To Copy",
     "records": [
@@ -13,6 +13,12 @@
             "link": "https://youtu.be/WoEs5kfh8zI?si=0vDFTIObBTyMfVmI",
             "percent": 100,
             "hz": 500
-        }
+        },
+        {
+            "user": "Light",
+            "link": "https://www.youtube.com/watch?v=dPq_ZkmU6Wg",
+            "percent": 67,
+            "hz": 500
+        }    
     ]
 }
