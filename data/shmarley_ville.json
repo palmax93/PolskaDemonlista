@@ -1,0 +1,48 @@
+{
+    "id": 81535535,
+    "name": "Shmarley Ville",
+    "author": "Renn241",
+    "creators": ["GhostVandalf","Renn241","DrCuber"],
+    "verifier": "Zipi",
+    "verification": "https://www.youtube.com/watch?v=5zWc3WaXMOM",
+    "percentToQualify": 100,
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Hubertos",
+            "link": "https://www.youtube.com/watch?v=5zWc3WaXMOM",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "ChiefKeefSosaGD",
+            "link": "https://www.youtube.com/watch?v=EL18GvfozgM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=nb6jGpG4GvA",
+            "percent": 100,
+            "hz": 360
+        }
+          {
+            "user": "Silkyy",
+            "link": "https://www.youtube.com/watch?v=xnZOlnLXRgg",
+            "percent": 100,
+            "hz": 360
+        }
+            {
+            "user": "rBedziu",
+            "link": "https://www.youtube.com/watch?v=dVt6Aih7Ij0",
+            "percent": 100,
+            "hz": 240
+        }
+            {
+            "user": "Kafpu",
+            "link": "https://www.youtube.com/watch?v=RY_3RdjyHaA",
+            "percent": 100,
+            "hz": 360
+        }
+  ]
+}
