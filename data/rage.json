@@ -1,0 +1,36 @@
+{
+    "id": 53878361,
+    "name": "Rage",
+    "author": "nSwish",
+    "creators": ["hawkyre","Moryn","Realvet","Yoonsr","StarkytheSalad","Spectral"],
+    "verifier": "nSwish",
+    "verification": "https://www.youtube.com/watch?v=UwEuwmTrkbM",
+    "percentToQualify": 55,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=UwEuwmTrkbM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=vfD5o7G9xCg",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Bobssy",
+            "link": "https://www.youtube.com/watch?v=wt5Znt7A2PY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Hollin",
+            "link": "https://www.youtube.com/watch?v=AVRrKU9EdjU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
