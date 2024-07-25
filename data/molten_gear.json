@@ -1,0 +1,24 @@
+{
+    "id": 62138313,
+    "name": "Molten Gear",
+    "author": "knobbelboy",
+    "creators": ["Pennutoh","Lucasyecla99","Stratos","Lexicon","knobbelboy","ViPriN","Hadeon","Terron","Cirtrax","Creeper4","Davphla","Pyndra","Morphix","Shyv","Xender Game","ZephiroX","Panman","Ji","BIANOX","Helpegasus","Metalface221","Shocksidian","Xaro"],
+    "verifier": "knobbelboy",
+    "verification": "https://www.youtube.com/watch?v=BMZdhcfmYfA",
+    "percentToQualify": 100,
+    "password": "000117",
+    "records": [
+        {
+            "user": "Ptiru",
+            "link": "https://www.youtube.com/watch?v=BMZdhcfmYfA",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=8YA_nLY23QI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
