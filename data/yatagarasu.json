@@ -1,0 +1,54 @@
+{
+    "id": 28220417,
+    "name": "Yatagarasu",
+    "author": "TrusTa",
+    "creators": ["Aeidux","Riot","WOOGI1411","Hinds","Findexi","ViPriN","Michigun","Anthrax","Loogiah","AbstractDark","weoweoteo","xcy7","Vermillion","Evasium","Jeyzor","Zelda","AncientAnubis","Rek3dge","Luneth","Csx42gaming","Funnygame","Giron"],
+    "verifier": "TrusTa",
+    "verification": "https://www.youtube.com/watch?v=FlqoAR5fZL8",
+    "percentToQualify": 51,
+    "password": "Free to copy",
+    "records": [
+          {
+              "user": "Makaron202",
+              "link": "https://www.youtube.com/watch?v=FlqoAR5fZL8",
+              "percent": 100,
+              "hz": 144
+          },
+          {
+              "user": "kvvv",
+              "link": "https://www.youtube.com/watch?v=9oi7YoJ94yk",
+              "percent": 100,
+              "hz": 300
+          },
+          {
+              "user": "Nercio0_YT",
+              "link": "https://www.youtube.com/watch?v=WytVIBcD3RE",
+              "percent": 100,
+              "hz": 360
+          },
+          {
+              "user": "Hollin",
+              "link": "https://www.youtube.com/watch?v=0HpB75kTdGQ",
+              "percent": 100,
+              "hz": 280
+          },
+          {
+              "user": "kasia",
+              "link": "https://www.youtube.com/watch?v=6qzQkwd9a3c",
+              "percent": 100,
+              "hz": 240
+          },
+          {
+              "user": "bugs0987",
+              "link": "https://www.youtube.com/watch?v=Wknw53nBs84",
+              "percent": 56,
+              "hz": 360
+          },
+          {
+              "user": "Doubley",
+              "link": "https://www.youtube.com/watch?v=Jvj6mAcy-x4",
+              "percent": 54,
+              "hz": 240
+          }
+    ]
+}
