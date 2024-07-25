@@ -1,0 +1,30 @@
+{
+    "id": 53443974,
+    "name": "Necromancer",
+    "author": "TGI",
+    "creators": ["Riot","Zimnior12","Deovise","Platnuu","zHyper","Sequex","Stormfly","Splash"],
+    "verifier": "TGI",
+    "verification": "https://www.youtube.com/watch?v=p-__9LFMBS4",
+    "percentToQualify": 100,
+    "password": "555555",
+    "records": [
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=p-__9LFMBS4",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Ptiru",
+            "link": "https://www.youtube.com/watch?v=otlgYMkAkkM",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=XOC-WzAIpN4",
+            "percent": 100,
+            "hz": 240
+        }
+  ]
+}
