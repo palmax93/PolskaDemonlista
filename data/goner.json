@@ -1,0 +1,30 @@
+{
+    "id": 77310650,
+    "name": "GONER",
+    "author": "Nightning",
+    "creators": ["Nightning"],
+    "verifier": "Matter",
+    "verification": "https://www.youtube.com/watch?v=V8pZno63wy0",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Hollin",
+            "link": "https://www.youtube.com/watch?v=V8pZno63wy0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=2Pafd0Jm7iE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=tsyNKekB9oI",
+            "percent": 100,
+            "hz": 240
+        }
+  ]
+}
