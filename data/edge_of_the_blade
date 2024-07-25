@@ -1,0 +1,36 @@
+{
+    "id": 61366470,
+    "name": "Edge of the Blade",
+    "author": "eiruni",
+    "creators": ["Juhou","Findexi","SlimJim","Onnikonna","ChaSe","Edge","Vlacc","Ryder"],
+    "verifier": "eiruni",
+    "verification": "https://www.youtube.com/watch?v=DVD7nijvStk",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Mando",
+            "link": "https://www.youtube.com/watch?v=DVD7nijvStk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "KubeczekTV",
+            "link": "https://www.youtube.com/watch?v=Lt_NCjcPdDA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TheRealLcK",
+            "link": "https://www.youtube.com/watch?v=1HjWMcgGtuA",
+            "percent": 100,
+            "hz": 240
+        },  
+        {
+            "user": "czehuu",
+            "link": "https://www.youtube.com/watch?v=Lz1LQeDDIBQ",
+            "percent": 100,
+            "hz": 360
+        }  
+]
+}
