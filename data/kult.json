@@ -1,0 +1,18 @@
+{
+    "id": 81549657,
+    "name": "KULT",
+    "author": "Skyyee",
+    "creators": ["Skyyee"],
+    "verifier": "WatchPiggy",
+    "verification": "https://youtu.be/qCzAHSg4MBc",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "Lipton",
+            "link": "https://www.youtube.com/watch?v=6mNY-P7DFZE",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
