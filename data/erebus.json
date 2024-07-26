@@ -1,0 +1,50 @@
+{
+    "id": 31462941,
+    "name": "Erebus",
+    "author": "BoldStep",
+    "creators": ["ILRELL","Rustam"],
+    "verifier": "BoldStep",
+    "verification": "https://www.youtube.com/watch?v=8CoPey9TIKQ",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=8CoPey9TIKQ",
+            "percent": 100,
+            "hz": 300
+        },
+       {
+            "user": "Plus0ne",
+            "link": "https://youtu.be/mZ79uAaXWvA",
+            "percent": 100,
+            "hz": 300
+        },
+    {
+            "user": "Bobssy",
+            "link": "https://youtu.be/j7MewvghBV0",
+            "percent": 100,
+            "hz": 360
+        },
+    {
+            "user": "Kasia",
+            "link": "https://www.youtube.com/watch?v=V-44Ajy3WJE",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "TheRealLcK",
+            "link": "https://www.youtube.com/watch?v=vAKby9em_-o",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "Stryg",
+            "link": "https://youtu.be/F_ymv8esbTU",
+            "percent": 100,
+            "hz": 240
+        }
+   
+
+  ]
+}
