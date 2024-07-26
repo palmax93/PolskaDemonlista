@@ -1,0 +1,48 @@
+{
+    "id": 71216292,
+    "name": "Kuzureta",
+    "author": "Teno",
+    "creators": ["Teno","Kyhros","DiamondSkull","Renn241","Genoxide","River","DrCuber","El3ctr0","zGod","Cybertron","Zetalock","Nicor77","ARWooly"],
+    "verifier": "Cursed",
+    "verification": "https://youtu.be/GSZyS2Qmtqo",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Byleom",
+            "link": "https://www.youtube.com/watch?v=9pgyqTKodGU",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Bobssy",
+            "link": "https://www.youtube.com/watch?v=I5W0OktopUE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "czehuu",
+            "link": "https://www.youtube.com/watch?v=MCXLgpPesbM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "nPumpz",
+            "link": "https://www.youtube.com/watch?v=YliYQ-OSIyE",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Mone",
+            "link": "https://www.youtube.com/watch?v=-ZLtoJJ084w",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "KubeczekTV",
+            "link": "https://www.youtube.com/watch?v=f9Db4HHhrIk",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
