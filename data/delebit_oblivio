@@ -1,0 +1,24 @@
+{
+    "id": 59134257,
+    "name": "Delebit Oblivio",
+    "author": "TeamSmokeWeed",
+    "creators": ["Soulsand","Ticky","Mulpan","Quitora","MDGFroid","G4lvatron","K4ruta","KeiAs","Zhander","SpadeKilla17","Olympic","Sogogi"],
+    "verifier": "Dorami",
+    "verification": "https://youtu.be/P8pGSJzCFv0",
+    "percentToQualify": 100,
+    "password": "697469",
+    "records": [
+        {
+            "user": "Hasik",
+            "link": "https://youtu.be/P8pGSJzCFv0",
+            "percent": 100,
+            "hz": 360
+        },
+     {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=7oBPAB0rdvg",
+            "percent": 100,
+            "hz": 240
+        }
+  ]
+}
