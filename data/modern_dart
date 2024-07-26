@@ -1,0 +1,18 @@
+{
+    "id": 85064280,
+    "name": "Modern Dart",
+    "author": "szamle",
+    "creators": ["magicstuff"],
+    "verifier": "Gokill",
+    "verification": "https://youtu.be/KAr3fiiBRGg",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "Gokill",
+            "link": "https://youtu.be/KAr3fiiBRGg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
