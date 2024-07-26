@@ -1,0 +1,18 @@
+{
+    "id": 81107735,
+    "name": "Nunri",
+    "author": "Szilu",
+    "creators": ["Szilu"],
+    "verifier": "Wolvez",
+    "verification": "https://youtu.be/R5ClEtWwfcA",
+    "percentToQualify": 100,
+    "password": "111111",
+    "records": [
+        {
+            "user": "Kasia",
+            "link": "https://www.youtube.com/watch?v=074aIdkvUrk",
+            "percent": 199,
+            "hz": 240
+        }
+    ]
+}
