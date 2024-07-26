@@ -20,17 +20,17 @@
             "percent": 100,
             "hz": 360
         },
-        {
+       {
+            "user": "MateleQ",
+            "link": "https://youtu.be/MuXPAUla5uk",
+            "percent": 81,
+            "hz": 240
+        },
+      {
             "user": "Dawiderix",
             "link": "https://www.youtube.com/watch?v=wgmIwlKPW7Y",
             "percent": 64,
             "hz": 322
-        },
-        {
-            "user": "MateleQ",
-            "link": "https://youtu.be/C_RhUatnJIU?si=yy1thE4CuCTrv5A4",
-            "percent": 54,
-            "hz": 240
         },
         {
             "user": "default2137",
