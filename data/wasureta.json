@@ -170,5 +170,13 @@
             "percent": 100,
             "hz": 240
         }
+       },       
+     {
+            "user": "Giedek03",
+            "link": "",
+            "percent": 1400,
+            "hz": 240
+        }   
+
     ]
 }
