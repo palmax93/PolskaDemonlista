@@ -1,0 +1,60 @@
+{
+    "id": 55547703,
+    "name": "Sunset Sandstorm",
+    "author": "crohn44",
+    "creators": ["crohn44"],
+    "verifier": "crohn44",
+    "verification": "https://www.youtube.com/watch?v=ThZ7oD_DQHo",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=ThZ7oD_DQHo",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "MiFig",
+            "link": "https://www.youtube.com/watch?v=ThZ7oD_DQHo",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "UnityHost",
+            "link": "https://www.youtube.com/watch?v=Y4q4SH9rqWU",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "ELLVO",
+            "link": "https://www.youtube.com/watch?v=U6rEy6J_5N0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Spek1666",
+            "link": "https://www.youtube.com/watch?v=Pfhddu9fgNQ",
+            "percent": 100,
+            "hz": 144
+        }, 
+        {
+            "user": "Hollin",
+            "link": "https://www.youtube.com/watch?v=y5iM30BowTY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Kublinek",
+            "link": "https://youtu.be/G7Kh-mXNBCs",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=kDIw7U3iuf4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
