@@ -1,0 +1,18 @@
+{
+    "id": 74034217,
+    "name": "Ddiamond",
+    "author": "lFritz",
+    "creators": ["lFritz","iITesseractIi"],
+    "verifier": "lamp86",
+    "verification": "https://youtu.be/d50K7pW5ooc",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "	L3m0nGD",
+            "link": "https://youtu.be/d50K7pW5ooc",
+            "percent": 100,
+            "hz": 360
+        }, 
+    ]
+}
