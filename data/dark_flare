@@ -1,0 +1,24 @@
+{
+    "id": 48942548,
+    "name": "Dark Flare",
+    "author": "KeiAs",
+    "creators": ["KeiAs","darkevan","Sikatsuka","MDGFroid","DarkBoshy","Mulpan","InterChange","Buddy365","Trolla","Quitora","Nisha","Kurai Yonaka","CrePusCule","CowMeat","Dominator"]
+    "verifier": "Plusxenon",
+    "verification": "https://youtu.be/9hrm72J6dX8",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Ziomislaw",
+            "link": "https://youtu.be/9hrm72J6dX8",
+            "percent": 100,
+            "hz": 288
+        }, 
+       {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=9eFtU3Hw-0g",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
