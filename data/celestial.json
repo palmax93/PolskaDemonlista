@@ -1,0 +1,24 @@
+{
+    "id": 47237400,
+    "name": "Celestial Force",
+    "author": "MindCap",
+    "creators": ["MindCap","GaidenHertuny","Hoshikido","Manheadrambo","Elayad","Jihn","Helpegasus","Xyriak","Wless","JustBasic"],
+    "verifier": "a n t",
+    "verification": "https://www.youtube.com/watch?v=mHR9_fMatjk",
+    "percentToQualify": 100,
+    "password": "772002",
+    "records": [
+        {
+            "user": "Hubertos",
+            "link": "https://www.youtube.com/watch?v=1DBPM60mPg0",
+            "percent": 100,
+            "hz": 360
+        },
+          {
+            "user": "Kasia",
+            "link": "https://www.youtube.com/watch?v=mHR9_fMatjk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
