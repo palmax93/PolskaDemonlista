@@ -1,0 +1,24 @@
+{
+    "id": 58306889,
+    "name": "Tapwreck",
+    "author": "MrLorenzo",
+    "creators": ["MrLorenzo"],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/w5qI2iukPzI",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Kapinapi",
+            "link": "https://youtu.be/w5qI2iukPzI",
+            "percent": 100,
+            "hz": 144
+        },
+          {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=eiRMxUp5Yoo",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
