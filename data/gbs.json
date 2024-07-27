@@ -1,0 +1,18 @@
+{
+    "id": 95294285,
+    "name": "GBS",
+    "author": "Kapinapi",
+    "creators": ["para","Kapinapi","verticallity","Jenkins","ViralDL","CuLuC"],
+    "verifier": "Luqualizer",
+    "verification": "https://youtu.be/zBmIYg2dpk4",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "ELLVO",
+            "link": "https://www.youtube.com/watch?v=CmttGvs4tvU&t=2s",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
