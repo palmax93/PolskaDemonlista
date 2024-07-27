@@ -1,0 +1,30 @@
+
+    "id": 68894921,
+    "name": "The Reaper",
+    "author": "Kyhros",
+    "creators": ["NASHII","Kyuu","cxli","Kakemancool","xoanon","Dirinoc","Kyhros","Deadlox","iBrah78","CuaeR","Sauzzeth","Doop","Netaren","Vinty","DilwOnk","AirSavage","nPyro","Realvet","BySelling","Jayy","River","Zetalock","Bentai"],
+    "verifier": "Teno",
+    "verification": "https://youtu.be/DKJ82-LThkM",
+    "percentToQualify": 100,
+    "password": "030607",
+    "records": [
+        {
+            "user": "Alanjx",
+            "link": "https://www.youtube.com/watch?v=g9AHIh7SDT8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ChiefKeefSosaGD",
+            "link": "https://www.youtube.com/watch?v=fdyKX2rmiqw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "UnityHost",
+            "link": "https://www.youtube.com/watch?v=TJTu38Hu-pQ",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
