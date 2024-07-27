@@ -21,11 +21,16 @@
             "hz": 300
         },
      {
-            "user": "MIxsel",
+            "user": "Mixsel",
             "link": "https://youtu.be/8hkFSEfnRqY",
             "percent": 100,
             "hz": 120
+        },
+      {
+            "user": "Kasia",
+            "link": "https://youtu.be/6CkcCTofv84?si=3TZjL1kb-5L15y-o",
+            "percent": 100,
+            "hz": 360
         }
-  
   ]
 }
