@@ -1,0 +1,42 @@
+{
+    "id": 81906166,
+    "name": "Retention Rush",
+    "author": "TheBlackHell",
+    "creators": ["TheBlacKHell"],
+    "verifier": "Angel",
+    "verification": "https://youtu.be/SPn1wsc9J9M",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=lwp-2SWhtnY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=pkx4kDwPHwc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Kafpu",
+            "link": "https://www.youtube.com/watch?v=BNT3jzt6qKQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Blacksuide",
+            "link": "https://www.youtube.com/watch?v=54mTOyU-GWs",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Lukrasz",
+            "link": "https://www.youtube.com/watch?v=pMRnpBQpsP0",
+            "percent": 100,
+            "hz": 120
+        },
+    ]
+}
