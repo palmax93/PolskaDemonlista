@@ -1,0 +1,26 @@
+{
+    "id": 83107375,
+    "name": "Nightshade",
+    "author": "YakobNugget",
+    "creators": ["Parallax","James","Toughfrey","GrenadeOfTacos","Avakai","INubble","YoReid","notlsa","OliSW","Rawin","overdefo","Lyriaki",
+      "RoyalP","Zeptoz","YakobNugget","scowlerxgrasher","Destriv","gradientxd","GDSkele","SleyGD","Whirl","ScorchVx","Loltad","Empika","RNBW","","TriStorm"],
+    "verifier": "YakobNugget",
+    "verification": "https://www.youtube.com/watch?v=TP_j_uDPQs4",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=TP_j_uDPQs4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=7YRt3zqaxCg",
+            "percent": 100,
+            "hz": 240
+        }
+        
+    ]
+}
