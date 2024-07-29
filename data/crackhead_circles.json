@@ -1,0 +1,24 @@
+{
+    "id": 95524621,
+    "name": "Crackhead Circles",
+    "author": "AlrexX",
+    "creators": ["TriplasH","AlrexX","rynoxious","Linear"],
+    "verifier": "teraaa",
+    "verification": "https://www.youtube.com/watch?v=5txTIDBC8HM",
+    "percentToQualify": 50,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "Mithrand",
+            "link": "https://www.youtube.com/watch?v=5txTIDBC8HM",
+            "percent": 100,
+            "hz": 330
+        },
+        {
+            "user": "Mone",
+            "link": "https://www.youtube.com/watch?v=ZFt6sYCH5CU",
+            "percent": 66,
+            "hz": 360
+        }
+    ]
+}
