@@ -1,0 +1,18 @@
+{
+    "id": 88136707 ,
+    "name": "Sky Shredder",
+    "author": "Dorvict",
+    "creators": ["Dorvict"],
+    "verifier": "Dorvict",
+    "verification": "https://www.youtube.com/watch?v=Z-69-4RKRgk&pp=ygUVc2t5IHNocmVkZGVyIHZlcmlmaWVk",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "ItzMira",
+            "link": "https://www.youtube.com/watch?v=nweqinQjBeY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
